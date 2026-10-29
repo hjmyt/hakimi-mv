@@ -1,0 +1,40 @@
+{
+  "assetId": "campus-feihong-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/feihong/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-f45524d2-ca9e-4b75-9ab3-9a653588f204.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-f45524d2-ca9e-4b75-9ab3-9a653588f204.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "e2eda58dffa2861ae651ca43779a46f62c17f73858b94d62aa3e3beb65125296",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T15:04:19.600712+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-feihong-three-view.txt",
+  "finalPrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是飞鸿的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定较短凌乱黑发、矩形深色眼镜、清瘦成年男性侧面轮廓，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。校园版去掉黑手套，银链不外露。",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/identity.webp",
+      "sha256": "2d14e25196b74c48b739352b95be722c1c54489a230633b77149999bc2e9008d",
+      "role": "identity",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/modern.png",
+      "sha256": "1bafa12be07bab34da40f2ac861faccb653bf6222f17b496f542add114427097",
+      "role": "secondary-face-hair-side-back-only",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看图：同一成年飞鸿正/严格右侧/背三视图；短乱黑发、深色矩形眼镜、清瘦脸型保持。白长袖挽至肘下，酒红细斜条领带、深蓝直筒裤、白帆布鞋一致；去除旧黑手套与外露银链，手自然，头脚完整，无文字。",
+    "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+  }
+}

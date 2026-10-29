@@ -1,0 +1,38 @@
+{
+  "assetId": "campus-lala-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18311-da60-7b60-9b89-4db304e8fb11/exec-b89a733e-c668-4f61-b850-d5b5f5b3317c.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T14:49:43.567597+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-lala-three-view.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/identity.png",
+      "sha256": "36f5943b4c8655fa3b7de6b813d9fa8ccf85c7642ebdd4cd9cb2cad9a826a1af",
+      "role": "identity",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/modern.png",
+      "sha256": "52a43a5242927f7ad0d89d48842055ed98046f6e9c722719a46bc733125b63c6",
+      "role": "secondary-face-hair-side-back-only",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root",
+    "status": "passed",
+    "observations": "实际看图：单排正/严格侧/背同一成年垃垃；长棕卷发与大白蝴蝶结保持，白衬衫挽袖、酒红条纹领带、深蓝百褶裙、白袜白鞋一致；头脚完整，无乐器文字。",
+    "limitations": "执行型号工具未暴露。"
+  }
+}

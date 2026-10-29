@@ -1,0 +1,2176 @@
+{
+  "schema": "campus-mv-wardrobe-assets/v2",
+  "planVersion": "campus-mv-v2",
+  "status": "images_ready",
+  "updatedAt": "2026-10-29",
+  "scope": "16名成年角色（15位伙伴校服＋朱老师教师装）与原三猫的MV换装/场景/接触参考规划；只写计划，不生成媒体。",
+  "sourceTruth": "当前正式身份图优先于旧文案；完整源文件实际看图和 SHA-256 均记录。新增校服尚未生成，不能标ready。",
+  "characters": [
+    {
+      "id": "jerry",
+      "name": "Jerry",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "短而蓬乱的黑发、矩形深色眼镜、偏瘦成年男性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/identity.webp",
+          "sha256": "026daa104a8802c382e5a42028d07dc60e814f913e77bdd5f50c1974c1b647f1",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/modern.png",
+          "sha256": "83d9cdeaa7227fef2648c2c271e2028f6a2b25714193b013fed151cfa7fa9ff3",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。",
+      "wardrobeAssetId": "campus-jerry-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/jerry/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "lala",
+      "name": "垃垃",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "很长的棕色卷发、刘海与脸侧发束、大白色蝴蝶结发饰、柔和成年女性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/identity.png",
+          "sha256": "36f5943b4c8655fa3b7de6b813d9fa8ccf85c7642ebdd4cd9cb2cad9a826a1af",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/modern.png",
+          "sha256": "52a43a5242927f7ad0d89d48842055ed98046f6e9c722719a46bc733125b63c6",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-lala-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。",
+        "演出时只用右手持独立黑色无线麦；三视图中双手放松不持物；保留大白蝴蝶结，不叠加第二个发饰。"
+      ]
+    },
+    {
+      "id": "tim",
+      "name": "TIM",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "略向后侧分的短黑发、细边矩形眼镜、较利落的下颌与成年男性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/identity.webp",
+          "sha256": "f83185d83d16a10ec44c264b7647a4d735ac2608930a762c73cfb9f7c25ca3d9",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/modern.png",
+          "sha256": "a11742bd5a38f20bb94596b92ef52d290aecb9a0ea443e4a5b4be859f8fda756",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-tim-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "yeshiyang",
+      "name": "叶思阳",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "微乱卷曲短黑发、矩形黑框眼镜、偏瘦的成年男性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/identity.webp",
+          "sha256": "1dbb20c46209c338435e08714bba5ae66ea37d610c4caf2f4e5cc741d9383fa7",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/modern.png",
+          "sha256": "1121c4d8259e3e4200d705080d4292bab5fb2746f636071ad2fd411df31eb22e",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-yeshiyang-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/yeshiyang/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "qiqi",
+      "name": "柒柒",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "深棕黑色盘髻、脸侧细发、小花簪、修长成年女性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/identity.webp",
+          "sha256": "3761787d43759b78dac504010c12feb25e417980acf488cd2bee7ebe761e9002",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/modern.png",
+          "sha256": "fb22552a14a03aac33270e23605b8a3b9b353786e7fd666f5d13ad17a020ab3a",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定短袖，袖口到上臂中部。",
+      "wardrobeAssetId": "campus-qiqi-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "dijie",
+      "name": "笛杰",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "蓬松略长黑发、自然刘海、无眼镜、柔和而清晰的成年男性下颌",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-dijie-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/dijie/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "shiyuan",
+      "name": "十元",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "棕色蓬松短波波头、金色五角星发夹、圆润柔和的成年女性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/identity.webp",
+          "sha256": "e73d6c9295c75e22447d21698632c42dbd77eb57b734023eb2486b71ef7a1184",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+          "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定短袖，袖口到上臂中部。",
+      "wardrobeAssetId": "campus-shiyuan-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "bingbing",
+      "name": "冰冰",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "侧分长直黑发、白花发饰、细长垂坠耳饰、柔和成年女性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/identity.webp",
+          "sha256": "62dd594e432d930da568f05802ecae09a4d4dfffbf4b265a5e0410d5939bb09c",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/modern.png",
+          "sha256": "eedfc47b01e7e3bd02731ecc6b5fb52cf79ab17262d66eed1d48b231ae4543fe",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-bingbing-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/bingbing/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "baoshi",
+      "name": "宝石",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "蓬松略长黑发、柔和成年男性脸型、无眼镜",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/identity.webp",
+          "sha256": "83f140fe6a670a15887201918281ab6deda43ad75f17d4f02fec66bb0a0fd885",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/modern.png",
+          "sha256": "6dc9e1dcd9b2e4c8094f613dd1fa110fe7be19933440dc4a882862b376c5b767",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。",
+      "wardrobeAssetId": "campus-baoshi-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/baoshi/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "feihong",
+      "name": "飞鸿",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "较短凌乱黑发、矩形深色眼镜、清瘦成年男性侧面轮廓",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/identity.webp",
+          "sha256": "2d14e25196b74c48b739352b95be722c1c54489a230633b77149999bc2e9008d",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/modern.png",
+          "sha256": "1bafa12be07bab34da40f2ac861faccb653bf6222f17b496f542add114427097",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-feihong-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/feihong/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。",
+        "校园版不戴原现代版黑手套，银链不外露；这是主动换装决定。"
+      ]
+    },
+    {
+      "id": "tang",
+      "name": "汤少",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "向上梳起的短黑发、矩形黑框眼镜、较圆且稳重的成年男性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/identity.webp",
+          "sha256": "c7f1561c4e2369761c281b8fdf39ed0b9d5e0f090f03342b96c76f41373a084c",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/modern.png",
+          "sha256": "cfade05a446f27d5a7ae10a5b45ecd44218caffcba4a51f5304ec11a7ce355eb",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。",
+      "wardrobeAssetId": "campus-tang-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/tang/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "zhu",
+      "name": "朱老师",
+      "role": "adult-teacher",
+      "variant": "teacher-campus-v2",
+      "identityAnchors": "短而微蓬松黑发、深色矩形眼镜、成熟成年男性脸型与老师气质",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/identity.webp",
+          "sha256": "c1b1c6231c0571f943fef5e47f6cdbe766f965f6e0d296bbf06157cef2ac2edd",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/modern.png",
+          "sha256": "c9890b36930768c0ba3e1ec99bf7fb49061a733cca0b2a4d94029615341e4181",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色长袖翻领衬衫，袖口各整齐挽两折至肘下，深海军蓝直筒长裤，黑色素面皮带，黑色低帮便鞋；不打学生领带、不穿学生百褶裙、不加校徽。",
+      "wardrobeAssetId": "teacher-zhu-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "kongge",
+      "name": "空格",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "壮实体型、圆脸、短蓬乱黑发、粗矩形黑框眼镜、成年男性年龄感",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/kongge-portrait-selected.webp",
+          "sha256": "37c02dee9103e47bd4fa651d403b658f077b7482e99d91453afb70fcbb330b4a",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。",
+      "wardrobeAssetId": "campus-kongge-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/kongge/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。",
+        "源图左腕确有黑色手表；本次校园造型明确去掉手表，属于换装决定，不把“原图无表”写成身份事实。",
+        "正式身份根未呈现完整站立背面与鞋；全身比例以可见体型延伸，裤装、鞋及背部为明确设计补全。"
+      ]
+    },
+    {
+      "id": "ria",
+      "name": "RIA",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "侧分长深棕色波浪发、珍珠垂耳饰、无眼镜、成年女性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/ria-full-2026-10.webp",
+          "sha256": "925e2a78f793ce32c209199e639b667f7ebb9bce23e43e636f6b081606e77b7a",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-ria-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。"
+      ]
+    },
+    {
+      "id": "azhe",
+      "name": "阿喆",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "纤细体型、蓬松棕色微卷发、细圆金属框眼镜、清秀成年男性脸型",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/azhe-full-2026-10.webp",
+          "sha256": "d22636691dce80d486c33375b968c0de8e4fa50e7c8fc7137dcc912c513af27e",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-azhe-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/azhe/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。",
+        "正式身份根未呈现完整站立背面与鞋；全身比例以可见体型延伸，裤装、鞋及背部为明确设计补全。"
+      ]
+    },
+    {
+      "id": "xiaozhou",
+      "name": "小周",
+      "role": "adult-partner-campus-mv-styling",
+      "variant": "uniform-campus-v2",
+      "identityAnchors": "黑色卷短发、柔和细长脸、无眼镜、成年男性年龄感",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/xiaozhou-portrait.webp",
+          "sha256": "b70cabeae5a0391efbd6033430b56b87d9a47c552fc84e7a63376825e5e40600",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "identityVisualCheck": {
+        "status": "viewed",
+        "method": "实际查看 identity 与现有 modern 对照；新增四人单图全尺寸查看",
+        "sourceOnlyNotNewAssetApproval": true
+      },
+      "wardrobe": "白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。",
+      "wardrobeAssetId": "campus-xiaozhou-three-view",
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+      "status": "ready",
+      "continuityNotes": [
+        "校园和校园舞台统一使用本版本；原 modern 图仅用于身份核对，不能成为本版衣服的最终参考。",
+        "保留成年角色的脸型、体型与年龄感；校园穿搭是 MV 造型，不幼化或改为幼童。",
+        "新校服的鞋、背部接缝、不可见部分属于本次设计补全，不冒称源图已有。",
+        "当前游戏选用正式图无眼镜；不采用旧文案的黑框眼镜描述。",
+        "正式身份根未呈现完整站立背面与鞋；全身比例以可见体型延伸，裤装、鞋及背部为明确设计补全。"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "campus-jerry-three-view",
+      "kind": "character-turnaround",
+      "entityId": "jerry",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/identity.webp",
+          "sha256": "026daa104a8802c382e5a42028d07dc60e814f913e77bdd5f50c1974c1b647f1",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/modern.png",
+          "sha256": "83d9cdeaa7227fef2648c2c271e2028f6a2b25714193b013fed151cfa7fa9ff3",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/jerry/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是Jerry的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定短而蓬乱的黑发、矩形深色眼镜、偏瘦成年男性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/identity.webp",
+          "sha256": "026daa104a8802c382e5a42028d07dc60e814f913e77bdd5f50c1974c1b647f1",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/modern.png",
+          "sha256": "83d9cdeaa7227fef2648c2c271e2028f6a2b25714193b013fed151cfa7fa9ff3",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "054178fa08e165934143af45c33c15149ddc52208eec6e2480b06b761d1c5624",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-jerry-three-view.json"
+    },
+    {
+      "id": "campus-lala-three-view",
+      "kind": "character-turnaround",
+      "entityId": "lala",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/identity.png",
+          "sha256": "36f5943b4c8655fa3b7de6b813d9fa8ccf85c7642ebdd4cd9cb2cad9a826a1af",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/modern.png",
+          "sha256": "52a43a5242927f7ad0d89d48842055ed98046f6e9c722719a46bc733125b63c6",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是垃垃的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定很长的棕色卷发、刘海与脸侧发束、大白色蝴蝶结发饰、柔和成年女性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/identity.png",
+          "sha256": "36f5943b4c8655fa3b7de6b813d9fa8ccf85c7642ebdd4cd9cb2cad9a826a1af",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/modern.png",
+          "sha256": "52a43a5242927f7ad0d89d48842055ed98046f6e9c722719a46bc733125b63c6",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-lala-three-view.json"
+    },
+    {
+      "id": "campus-tim-three-view",
+      "kind": "character-turnaround",
+      "entityId": "tim",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/identity.webp",
+          "sha256": "f83185d83d16a10ec44c264b7647a4d735ac2608930a762c73cfb9f7c25ca3d9",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/modern.png",
+          "sha256": "a11742bd5a38f20bb94596b92ef52d290aecb9a0ea443e4a5b4be859f8fda756",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是TIM的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定略向后侧分的短黑发、细边矩形眼镜、较利落的下颌与成年男性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/identity.webp",
+          "sha256": "f83185d83d16a10ec44c264b7647a4d735ac2608930a762c73cfb9f7c25ca3d9",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/modern.png",
+          "sha256": "a11742bd5a38f20bb94596b92ef52d290aecb9a0ea443e4a5b4be859f8fda756",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "66c755c84de660dd81332b2e46a93ed666e39e400167ff192c59a5bcb4dd1ec0",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-tim-three-view.json"
+    },
+    {
+      "id": "campus-yeshiyang-three-view",
+      "kind": "character-turnaround",
+      "entityId": "yeshiyang",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/identity.webp",
+          "sha256": "1dbb20c46209c338435e08714bba5ae66ea37d610c4caf2f4e5cc741d9383fa7",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/modern.png",
+          "sha256": "1121c4d8259e3e4200d705080d4292bab5fb2746f636071ad2fd411df31eb22e",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/yeshiyang/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是叶思阳的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定微乱卷曲短黑发、矩形黑框眼镜、偏瘦的成年男性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/identity.webp",
+          "sha256": "1dbb20c46209c338435e08714bba5ae66ea37d610c4caf2f4e5cc741d9383fa7",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/modern.png",
+          "sha256": "1121c4d8259e3e4200d705080d4292bab5fb2746f636071ad2fd411df31eb22e",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "821d43baa2b0c4c86c652c7082f77345cefe422157a446e15d2cb64393fedace",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-yeshiyang-three-view.json"
+    },
+    {
+      "id": "campus-qiqi-three-view",
+      "kind": "character-turnaround",
+      "entityId": "qiqi",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/identity.webp",
+          "sha256": "3761787d43759b78dac504010c12feb25e417980acf488cd2bee7ebe761e9002",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/modern.png",
+          "sha256": "fb22552a14a03aac33270e23605b8a3b9b353786e7fd666f5d13ad17a020ab3a",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是柒柒的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定深棕黑色盘髻、脸侧细发、小花簪、修长成年女性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定短袖，袖口到上臂中部。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/identity.webp",
+          "sha256": "3761787d43759b78dac504010c12feb25e417980acf488cd2bee7ebe761e9002",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/modern.png",
+          "sha256": "fb22552a14a03aac33270e23605b8a3b9b353786e7fd666f5d13ad17a020ab3a",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-qiqi-three-view.json"
+    },
+    {
+      "id": "campus-dijie-three-view",
+      "kind": "character-turnaround",
+      "entityId": "dijie",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/dijie/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是笛杰的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定蓬松略长黑发、自然刘海、无眼镜、柔和而清晰的成年男性下颌，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "afce3f10a9372719ce10e5514cee2523372e69461dfea84db2c44494ef63bb97",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-dijie-three-view.json"
+    },
+    {
+      "id": "campus-shiyuan-three-view",
+      "kind": "character-turnaround",
+      "entityId": "shiyuan",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/identity.webp",
+          "sha256": "e73d6c9295c75e22447d21698632c42dbd77eb57b734023eb2486b71ef7a1184",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+          "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是十元的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定棕色蓬松短波波头、金色五角星发夹、圆润柔和的成年女性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定短袖，袖口到上臂中部。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/identity.webp",
+          "sha256": "e73d6c9295c75e22447d21698632c42dbd77eb57b734023eb2486b71ef7a1184",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+          "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-shiyuan-three-view.json"
+    },
+    {
+      "id": "campus-bingbing-three-view",
+      "kind": "character-turnaround",
+      "entityId": "bingbing",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/identity.webp",
+          "sha256": "62dd594e432d930da568f05802ecae09a4d4dfffbf4b265a5e0410d5939bb09c",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/modern.png",
+          "sha256": "eedfc47b01e7e3bd02731ecc6b5fb52cf79ab17262d66eed1d48b231ae4543fe",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/bingbing/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是冰冰的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定侧分长直黑发、白花发饰、细长垂坠耳饰、柔和成年女性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/identity.webp",
+          "sha256": "62dd594e432d930da568f05802ecae09a4d4dfffbf4b265a5e0410d5939bb09c",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/modern.png",
+          "sha256": "eedfc47b01e7e3bd02731ecc6b5fb52cf79ab17262d66eed1d48b231ae4543fe",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "be10c3615dacf686abb47072036186f535c0913fc5add151b202e297df124ba7",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-bingbing-three-view.json"
+    },
+    {
+      "id": "campus-baoshi-three-view",
+      "kind": "character-turnaround",
+      "entityId": "baoshi",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/identity.webp",
+          "sha256": "83f140fe6a670a15887201918281ab6deda43ad75f17d4f02fec66bb0a0fd885",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/modern.png",
+          "sha256": "6dc9e1dcd9b2e4c8094f613dd1fa110fe7be19933440dc4a882862b376c5b767",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/baoshi/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是宝石的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定蓬松略长黑发、柔和成年男性脸型、无眼镜，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/identity.webp",
+          "sha256": "83f140fe6a670a15887201918281ab6deda43ad75f17d4f02fec66bb0a0fd885",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/modern.png",
+          "sha256": "6dc9e1dcd9b2e4c8094f613dd1fa110fe7be19933440dc4a882862b376c5b767",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "c32367040bc2bd2cbaa2f9d5ed15b26581870e3f2beeed247f00c39419a535ed",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-baoshi-three-view.json"
+    },
+    {
+      "id": "campus-feihong-three-view",
+      "kind": "character-turnaround",
+      "entityId": "feihong",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/identity.webp",
+          "sha256": "2d14e25196b74c48b739352b95be722c1c54489a230633b77149999bc2e9008d",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/modern.png",
+          "sha256": "1bafa12be07bab34da40f2ac861faccb653bf6222f17b496f542add114427097",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/feihong/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是飞鸿的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定较短凌乱黑发、矩形深色眼镜、清瘦成年男性侧面轮廓，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。校园版去掉黑手套，银链不外露。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/identity.webp",
+          "sha256": "2d14e25196b74c48b739352b95be722c1c54489a230633b77149999bc2e9008d",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/modern.png",
+          "sha256": "1bafa12be07bab34da40f2ac861faccb653bf6222f17b496f542add114427097",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "e2eda58dffa2861ae651ca43779a46f62c17f73858b94d62aa3e3beb65125296",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-feihong-three-view.json"
+    },
+    {
+      "id": "campus-tang-three-view",
+      "kind": "character-turnaround",
+      "entityId": "tang",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/identity.webp",
+          "sha256": "c7f1561c4e2369761c281b8fdf39ed0b9d5e0f090f03342b96c76f41373a084c",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/modern.png",
+          "sha256": "cfade05a446f27d5a7ae10a5b45ecd44218caffcba4a51f5304ec11a7ce355eb",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/tang/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是汤少的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定向上梳起的短黑发、矩形黑框眼镜、较圆且稳重的成年男性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/identity.webp",
+          "sha256": "c7f1561c4e2369761c281b8fdf39ed0b9d5e0f090f03342b96c76f41373a084c",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/modern.png",
+          "sha256": "cfade05a446f27d5a7ae10a5b45ecd44218caffcba4a51f5304ec11a7ce355eb",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "02a563427d10584ba5e920e212175defd2470965820c2588188baac5faf88cc3",
+      "nativeDimensions": [
+        1024,
+        1536
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-tang-three-view.json"
+    },
+    {
+      "id": "teacher-zhu-three-view",
+      "kind": "character-turnaround",
+      "entityId": "zhu",
+      "variant": "teacher-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/identity.webp",
+          "sha256": "c1b1c6231c0571f943fef5e47f6cdbe766f965f6e0d296bbf06157cef2ac2edd",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/modern.png",
+          "sha256": "c9890b36930768c0ba3e1ec99bf7fb49061a733cca0b2a4d94029615341e4181",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是朱老师的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定短而微蓬松黑发、深色矩形眼镜、成熟成年男性脸型与老师气质，保持原年龄感、肤色和体型。新服装严格为：白色长袖翻领衬衫，袖口各整齐挽两折至肘下，深海军蓝直筒长裤，黑色素面皮带，黑色低帮便鞋；不打学生领带、不穿学生百褶裙、不加校徽。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/identity.webp",
+          "sha256": "c1b1c6231c0571f943fef5e47f6cdbe766f965f6e0d296bbf06157cef2ac2edd",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/modern.png",
+          "sha256": "c9890b36930768c0ba3e1ec99bf7fb49061a733cca0b2a4d94029615341e4181",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "7c930dcddacc90357f35bc07bd35ce78190632950ca0354f1a7116416e5aa38e",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/teacher-zhu-three-view.json"
+    },
+    {
+      "id": "campus-kongge-three-view",
+      "kind": "character-turnaround",
+      "entityId": "kongge",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/kongge-portrait-selected.webp",
+          "sha256": "37c02dee9103e47bd4fa651d403b658f077b7482e99d91453afb70fcbb330b4a",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/kongge/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是空格的正式身份根，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定壮实体型、圆脸、短蓬乱黑发、粗矩形黑框眼镜、成年男性年龄感，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定短袖，袖口到上臂中部。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。校园版去掉源图左腕黑表，体型仍保持壮实。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/assets/kongge-portrait-selected.webp",
+          "sha256": "37c02dee9103e47bd4fa651d403b658f077b7482e99d91453afb70fcbb330b4a",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "87342cc5cb7e308f086f52643c8d72d54a93c84967d6e3ccd984ad7dc69504ce",
+      "nativeDimensions": [
+        1380,
+        1140
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-kongge-three-view.json"
+    },
+    {
+      "id": "campus-ria-three-view",
+      "kind": "character-turnaround",
+      "entityId": "ria",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/ria-full-2026-10.webp",
+          "sha256": "925e2a78f793ce32c209199e639b667f7ebb9bce23e43e636f6b081606e77b7a",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是RIA的正式身份根，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定侧分长深棕色波浪发、珍珠垂耳饰、无眼镜、成年女性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝及膝百褶裙，不用迷你裙、不换黑色长纱裙。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/ria-full-2026-10.webp",
+          "sha256": "925e2a78f793ce32c209199e639b667f7ebb9bce23e43e636f6b081606e77b7a",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "45063bc2a4423ae8e010024b1496a87b693bdfbd034b87bfc9ec1d166dfac53f",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-ria-three-view.json"
+    },
+    {
+      "id": "campus-azhe-three-view",
+      "kind": "character-turnaround",
+      "entityId": "azhe",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/azhe-full-2026-10.webp",
+          "sha256": "d22636691dce80d486c33375b968c0de8e4fa50e7c8fc7137dcc912c513af27e",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/azhe/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是阿喆的正式身份根，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定纤细体型、蓬松棕色微卷发、细圆金属框眼镜、清秀成年男性脸型，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/azhe-full-2026-10.webp",
+          "sha256": "d22636691dce80d486c33375b968c0de8e4fa50e7c8fc7137dcc912c513af27e",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "35c3a24c6bec79dc2c12d621e5f40d7b3c55c19dbe18401e31ee5bcf3f2ac2af",
+      "nativeDimensions": [
+        1374,
+        1145
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-azhe-three-view.json"
+    },
+    {
+      "id": "campus-xiaozhou-three-view",
+      "kind": "character-turnaround",
+      "entityId": "xiaozhou",
+      "variant": "uniform-campus-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/xiaozhou-portrait.webp",
+          "sha256": "b70cabeae5a0391efbd6033430b56b87d9a47c552fc84e7a63376825e5e40600",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+      "status": "ready",
+      "imagePrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是小周的正式身份根，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定黑色卷短发、柔和细长脸、无眼镜、成年男性年龄感，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+      "qaChecklist": [
+        "恰好同一人的正、严格侧、背三视图",
+        "成年身份、脸型、发型、眼镜/发饰与身份根一致",
+        "三视图服装、袖高、领带与鞋一致",
+        "全身完整，未出现原服装、乐器或文字"
+      ],
+      "generationPolicy": "只使用内置 image_gen；实际输入 sourceReferences 中图片，不以路径文字代替图片。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/assets/xiaozhou-portrait.webp",
+          "sha256": "b70cabeae5a0391efbd6033430b56b87d9a47c552fc84e7a63376825e5e40600",
+          "role": "identity",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "ab7867717f9ae7cff7576847af1be2a57b7a085574d99c2362d0fbb081f674ce",
+      "nativeDimensions": [
+        1312,
+        1199
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/campus-xiaozhou-three-view.json"
+    },
+    {
+      "id": "prop-black-wireless-mic",
+      "kind": "prop",
+      "entityId": "black-wireless-mic",
+      "sourceReferences": [],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+      "status": "ready",
+      "imagePrompt": "绘制本青春校园 MV 唯一固定的手持无线麦克风生产参考，只画一支完整麦克风本体。哑光黑色短圆柱金属握柄，黑色圆头金属网罩，网罩下细窄银灰环，握柄底端封闭，整支长度约24厘米，握柄约3厘米粗，真实手持尺度。斜置三分之四侧视，完整头尾，不带手、不带脸、不带麦架、不带线缆、不带商标文字，不增加第二支麦。浅暖灰背景，中性平光，日系半写实动画物品质感，清晰轮廓。此设计是新增道具，不从猫咪小麦克风变形。",
+      "qaChecklist": [
+        "只一支黑色无线麦",
+        "封闭底端，无线、无麦架",
+        "与人物手掌尺度相容"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [],
+      "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+      "nativeDimensions": [
+        1312,
+        1199
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/prop-black-wireless-mic.json"
+    },
+    {
+      "id": "prop-dijie-bamboo-flute",
+      "kind": "prop",
+      "entityId": "dijie-bamboo-flute",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "role": "held-bamboo-flute-object-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+      "status": "ready",
+      "imagePrompt": "参考图1只提取笛杰双手正拿着的黄褐色横吹竹笛，不提取右下笛盒内的银色金属长笛或其他笛子。绘制一支同型完整竹笛本体，暖黄褐竹质管身，自然竹节与深棕绑线圈、深色端套、圆形吹孔与指孔，保留参考的端部和环箍配色。清楚呈现吹孔和指孔的可演奏结构，黑色指孔不能变成金属按键。浅暖灰背景，横向完整展示，约成年双手横持的真实长度；不加手、脸、盒子、背景、不复制持笛人物、不画多支笛，不加文字和箭头。日系半写实动画道具质感，平光。",
+      "qaChecklist": [
+        "黄褐竹笛，不是银色横笛或竖笛",
+        "吹孔、指孔与端套结构可用于横吹",
+        "参考原图手持那一支；不混盒内其他笛"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "role": "held-bamboo-flute-object-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+      "nativeDimensions": [
+        1774,
+        887
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/prop-dijie-bamboo-flute.json"
+    },
+    {
+      "id": "prop-violin-bow",
+      "kind": "prop",
+      "entityId": "violin-bow",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "role": "scale-and-style",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/ria-full-2026-10.webp",
+          "sha256": "925e2a78f793ce32c209199e639b667f7ebb9bce23e43e636f6b081606e77b7a",
+          "role": "bow-object-only",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/props/violin-bow.png",
+      "status": "ready",
+      "imagePrompt": "参考图1是原小提琴尺度，参考图2仅提取 RIA 手中的琴弓材料与形状，不生成角色。绘制一支完整标准小提琴弓的独立道具参考，深红棕细木弓杆，绷直的浅奶白弓毛，黑色弓根配少量银色金属圈和尾部调节螺丝，弓尖完整，弓杆与弓毛分开可见。整支横向呈现，真实比例，浅暖灰背景，中性平光，清爽日系半写实动画质感；不带手、不带脸、不带小提琴、不画多支弓、不加字。",
+      "qaChecklist": [
+        "一支弓杆与弓毛完整不黏合",
+        "弓根、弓尖和弓毛齐全",
+        "尺寸适于现有小提琴"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "role": "scale-and-style",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/ria-full-2026-10.webp",
+          "sha256": "925e2a78f793ce32c209199e639b667f7ebb9bce23e43e636f6b081606e77b7a",
+          "role": "bow-object-only",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/prop-violin-bow.json"
+    },
+    {
+      "id": "scene-campus-corridor",
+      "kind": "scene",
+      "entityId": "campus-corridor-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "role": "campus-building-style",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+      "status": "ready",
+      "imagePrompt": "以参考图1的现代校园白色教学楼、树木与暖白墙材为建筑依据，设计同一教学楼的明亮开放式长廊，无人物。16:9宽景，镜头从廊道入口向纵深看；左侧连续矩形窗、窗外绿色树冠；右侧白墙上三扇深蓝灰教室门；灰白水磨石地面，尽头是开放小平台和金属栏杆，远处可见同校园红色跑道。左窗自然日光形成清晰节奏的窗格光影；走廊宽敞留出奔跑和轻跃的地面，不摆杂物、不加楼梯阻挡。固定左窗、右门、尽头栏杆三个建筑锚点，后续反拍不得交换物理位置。清爽明亮的青春校园半写实动画场景，无人物、无占位轮廓、无文字、无箭头、无古堡拱券。",
+      "qaChecklist": [
+        "左窗右门尽头栏杆拓扑固定",
+        "奔跑地面无障碍",
+        "与原校园现代白教学楼相容"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "role": "campus-building-style",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+      "nativeDimensions": [
+        1672,
+        941
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/scene-campus-corridor.json"
+    },
+    {
+      "id": "scene-campus-music-room",
+      "kind": "scene",
+      "entityId": "music-room-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/classroom.png",
+          "sha256": "41f5cc92880492cb8e68db372a079aca4e274ee16b96596f397d7e12d6e02e25",
+          "role": "fixed-room-topology",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+      "status": "ready",
+      "imagePrompt": "参考图1为音乐教室的原结构。生成同一房间用于青春 MV 排练的明亮日间变体，无人物，16:9宽景。保留左墙大矩形窗、后墙深绿黑板、后墙中央偏左的一台黑色立式钢琴及匹配黑琴凳、画面右后侧入口门；把中间成排课桌移至右侧靠墙，中央留宽敞木地板表演区，这一移桌是本版本固定改动。钢琴打开键盘盖，琴键为真实黑白键，黑键呈2、3成组交替，钢琴不可在后续镜头变成三角钢琴或电子键盘。左窗清透午后阳光，木地板淡金反射、明亮中间调；中央能站一至三人排练，不加全套鼓、不加其他乐器、无人物、无占位轮廓、无文字、无魔法物品。日系半写实动画背景。",
+      "qaChecklist": [
+        "左窗、后黑板、右门保持结构",
+        "恰好一台黑立式钢琴及一张凳",
+        "中央空地可演出，琴键结构可用于特写"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/classroom.png",
+          "sha256": "41f5cc92880492cb8e68db372a079aca4e274ee16b96596f397d7e12d6e02e25",
+          "role": "fixed-room-topology",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+      "nativeDimensions": [
+        1672,
+        941
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/scene-campus-music-room.json"
+    },
+    {
+      "id": "scene-campus-stage",
+      "kind": "scene",
+      "entityId": "campus-stage-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "role": "campus-topology-and-architecture",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [],
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+      "status": "ready",
+      "imagePrompt": "参考图1锁定现代校园操场和教学楼建筑。设计操场侧边同一校园的小型社团音乐会舞台，无人物，16:9宽景。低矮长方形木舞台面向红跑道内场，背景右侧为原白色教学楼、白色看台和树冠；舞台背后只有简洁海军蓝遮阳顶棚与暖白无字背景布，两侧各一只黑色小音箱。左前侧可见两级上台台阶，舞台中央留给主唱，左后留吉他手空间，地面整洁安全，前方草地留足伙伴合影的位置。不加麦架，因为主唱固定手持无线麦；不加琴架、鼓组、LED巨屏、海景、城堡、烟花或观众占位。明亮金色午后光，清爽、有青春活力的半写实动画场景，不做霓虹夜场；无人物、文字、LOGO、箭头。",
+      "qaChecklist": [
+        "校园小舞台而非海边舞台",
+        "舞台左台阶、右背景教学楼保持",
+        "中心表演区无麦架和多余乐器"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "role": "campus-topology-and-architecture",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+      "nativeDimensions": [
+        1672,
+        941
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/scene-campus-stage.json"
+    },
+    {
+      "id": "scene-campus-rain",
+      "kind": "scene",
+      "entityId": "campus-rain-v2",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "role": "outside-campus-architecture",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [
+        {
+          "assetId": "scene-campus-corridor",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+          "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+      "status": "ready",
+      "imagePrompt": "参考图1锁定已完成的校园廊道结构，参考图2锁定窗外红跑道和白教学楼；生成同一地点雨刚停、阳光从左侧透入的16:9空景。左侧连续矩形窗、右侧三扇教室门、尽头栏杆与廊道地面位置不变；镜头看向廊道尽头开放小平台，外侧树叶有少量雨珠，外露的跑道和平台有薄浅积水反射，室内走廊地面干燥、无滑倒障碍，天空明亮蓝白。营造雨停后的清新晴天，不是城市夜雨，不加路灯霓虹、公交站、机动车或暴雨。保留自然明快色彩，不加人物、文字、箭头。",
+      "qaChecklist": [
+        "原廊道拓扑保持",
+        "雨后透日、非城市夜雨",
+        "人物活动区干燥安全"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "assetId": "scene-campus-corridor",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+          "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "role": "outside-campus-architecture",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9",
+      "nativeDimensions": [
+        1672,
+        941
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/scene-campus-rain.json"
+    },
+    {
+      "id": "performance-lala-mic",
+      "kind": "performance-contact",
+      "entityId": "lala",
+      "sourceReferences": [],
+      "dependencyReferences": [
+        {
+          "assetId": "campus-lala-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "assetId": "prop-black-wireless-mic",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "plannedOutput": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+      "status": "ready",
+      "imagePrompt": "参考图1为垃垃已审查校服三视图，参考图2为已审查黑色无线麦。生成一张垃垃腰部以上三分之四正面演出操作参考，只有她一人，保持长棕卷发、大白蝴蝶结、白衬衫酒红细条领带。固定右手握住麦克风握柄中下段，五指自然包握且手掌与握柄接触，网罩距嘴约5厘米，不遮整张脸、不穿过嘴唇；麦克风头在上、封闭底端在下，无线无架。左手打开停在胸侧，不能接过或复制麦克风；轻微张口作明亮歌唱状态，头肩挺拔，清楚看到嘴、右手与完整麦身。浅灰背景，单幅构图，不做表情拼图、不加字幕，不宣称精确口型同步。",
+      "qaChecklist": [
+        "持麦人只有垃垃且固定右手",
+        "嘴与网罩分离、手指自然接触",
+        "麦克风一支、无架、无线"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "assetId": "campus-lala-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "order": 2,
+          "assetId": "prop-black-wireless-mic",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+      "nativeDimensions": [
+        1312,
+        1199
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/performance-lala-mic.json"
+    },
+    {
+      "id": "performance-dijie-flute",
+      "kind": "performance-contact",
+      "entityId": "dijie",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "role": "approved-modern-wardrobe",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [
+        {
+          "assetId": "prop-dijie-bamboo-flute",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+          "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "plannedOutput": "redesign/campus-mv-v2/assets/performance/dijie-bamboo-flute.png",
+      "status": "ready",
+      "imagePrompt": "参考图1锁定笛杰的正式脸型，参考图2锁定笛杰原modern棕灰格子外衫、浅灰内搭和黑裤，参考图3为已审查黄褐竹笛。生成笛杰一人的胸部以上三分之四正面演奏操作参考，蓬松略长黑发、无眼镜，成年脸型。竹笛为横吹，沿人物自己的右侧横向伸出，吹孔置于下唇前缘附近而不是整根插进口中；左手靠近吹孔侧覆盖近端指孔，右手靠管尾侧覆盖远端指孔，双臂自然抬起，肩放松；只呈现清楚可行的横吹定格，竹笛不穿脸，双手没有多指粘连，完整笛身可见。浅灰背景，无其他人物和乐器，不用银色按键长笛、不用竖笛，不加文字。",
+      "qaChecklist": [
+        "海边独奏沿用modern格子外衫",
+        "竹笛横吹、吹孔与嘴接触合理",
+        "左手靠吹孔，右手靠管尾，不能拿倒",
+        "只笛杰一人，无柒柒对视"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "role": "approved-modern-wardrobe",
+          "referenceState": "existing"
+        },
+        {
+          "order": 3,
+          "assetId": "prop-dijie-bamboo-flute",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+          "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "sha256": "c160d9dd44544c025544107776608dd18c21d443c6be061a0435794df1307b6c",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/performance-dijie-flute.json"
+    },
+    {
+      "id": "performance-shiyuan-violin",
+      "kind": "performance-contact",
+      "entityId": "shiyuan",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "role": "instrument-body",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [
+        {
+          "assetId": "campus-shiyuan-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+          "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "assetId": "prop-violin-bow",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png",
+          "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "plannedOutput": "redesign/campus-mv-v2/assets/performance/shiyuan-violin-bow.png",
+      "status": "ready",
+      "imagePrompt": "参考图1锁定十元已审查的校园校服身份，参考图2锁定棕色小提琴本体，参考图3锁定琴弓。生成一张只有十元的腰部以上三分之四正面演奏操作参考。保持本人脸型、发型、发饰/耳饰、白衬衫和酒红细条领带。小提琴承托于左肩与下颌之间，左手托琴颈、手指落在指板，右手在弓根自然握弓，弓毛接触琴桥与指板之间的琴弦、弓杆与弓毛分离，琴弓大致与弦垂直；下巴、手指、琴颈、琴弓全可见，无多余手指、浮空琴或断弓。只一把琴一支弓，浅灰背景，不加文字，作为演奏接触姿势参考，不承诺与原曲每一个音精确同步。",
+      "qaChecklist": [
+        "左肩托琴，左手琴颈，右手弓根",
+        "弓毛接弦，结构完整",
+        "本人校服身份无变化"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "assetId": "campus-shiyuan-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+          "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "role": "instrument-body",
+          "referenceState": "existing"
+        },
+        {
+          "order": 3,
+          "assetId": "prop-violin-bow",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png",
+          "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "sha256": "996461ba2e94d0bbc297c9560dbb18eb95b0a0548f4c8399a654f35f306489f8",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/performance-shiyuan-violin.json"
+    },
+    {
+      "id": "performance-ria-violin",
+      "kind": "performance-contact",
+      "entityId": "ria",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "role": "instrument-body",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [
+        {
+          "assetId": "campus-ria-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+          "sha256": "45063bc2a4423ae8e010024b1496a87b693bdfbd034b87bfc9ec1d166dfac53f",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "assetId": "prop-violin-bow",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png",
+          "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "plannedOutput": "redesign/campus-mv-v2/assets/performance/ria-violin-bow.png",
+      "status": "ready",
+      "imagePrompt": "参考图1锁定RIA已审查的校园校服身份，参考图2锁定棕色小提琴本体，参考图3锁定琴弓。生成一张只有RIA的腰部以上三分之四正面演奏操作参考。保持本人脸型、发型、发饰/耳饰、白衬衫和酒红细条领带。小提琴承托于左肩与下颌之间，左手托琴颈、手指落在指板，右手在弓根自然握弓，弓毛接触琴桥与指板之间的琴弦、弓杆与弓毛分离，琴弓大致与弦垂直；下巴、手指、琴颈、琴弓全可见，无多余手指、浮空琴或断弓。只一把琴一支弓，浅灰背景，不加文字，作为演奏接触姿势参考，不承诺与原曲每一个音精确同步。",
+      "qaChecklist": [
+        "左肩托琴，左手琴颈，右手弓根",
+        "弓毛接弦，结构完整",
+        "本人校服身份无变化"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "assetId": "campus-ria-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+          "sha256": "45063bc2a4423ae8e010024b1496a87b693bdfbd034b87bfc9ec1d166dfac53f",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "role": "instrument-body",
+          "referenceState": "existing"
+        },
+        {
+          "order": 3,
+          "assetId": "prop-violin-bow",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png",
+          "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "sha256": "a0680efb68430c53dc26fbfc1478765f80ac2f4664f36348416fd2a7f1035cbe",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/performance-ria-violin.json"
+    },
+    {
+      "id": "performance-xiaozhou-piano",
+      "kind": "performance-contact",
+      "entityId": "xiaozhou",
+      "sourceReferences": [],
+      "dependencyReferences": [
+        {
+          "assetId": "campus-xiaozhou-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+          "sha256": "ab7867717f9ae7cff7576847af1be2a57b7a085574d99c2362d0fbb081f674ce",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "assetId": "scene-campus-music-room",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "plannedOutput": "redesign/campus-mv-v2/assets/performance/xiaozhou-piano-hands.png",
+      "status": "ready",
+      "imagePrompt": "参考图1锁定小周已审查的校园校服身份，参考图2为已审查音乐教室，固定使用后墙那一台黑色立式钢琴。生成小周从左前方拍摄的腰部以上中近景，脸与双手均可见，黑色微卷短发、细长脸、明确无眼镜，白衬衫挽袖和酒红细条领带不变。小周坐在固定琴凳上，双脚自然在地面，两前臂放松伸向键盘，弧形手指各触相应琴键，双手左右分开，不交叉、不悬浮、不多指。黑键按2、3成组交替、琴键平行，钢琴保持立式结构与同一黑色漆面。左窗明亮自然光，仅他一人，不加谱面乱码或旁人；这是接触结构参考，不声称逐音同步。",
+      "qaChecklist": [
+        "小周无眼镜",
+        "双手自然触键，键盘2/3分组",
+        "同一立式钢琴，不突然变三角琴"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "assetId": "campus-xiaozhou-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+          "sha256": "ab7867717f9ae7cff7576847af1be2a57b7a085574d99c2362d0fbb081f674ce",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "order": 2,
+          "assetId": "scene-campus-music-room",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "sha256": "fa78f03f7433a17d028e71bd0f0172b20db8eab353ec578d749e2812586ea520",
+      "nativeDimensions": [
+        1448,
+        1086
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/performance-xiaozhou-piano.json"
+    },
+    {
+      "id": "performance-qiqi-guitar",
+      "kind": "performance-contact",
+      "entityId": "qiqi",
+      "sourceReferences": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "role": "approved-guitar",
+          "referenceState": "existing"
+        }
+      ],
+      "dependencyReferences": [
+        {
+          "assetId": "campus-qiqi-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        }
+      ],
+      "plannedOutput": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+      "status": "ready",
+      "imagePrompt": "参考图1锁定柒柒已审查校园校服身份，参考图2锁定红色双切角电吉他与花纹背带。生成一张只有柒柒的腰部以上三分之四演出操作参考；深色盘髻、小花簪、白短袖衬衫、酒红细条领带、深蓝裙不变。吉他由原花纹肩带稳定悬于腰前，琴颈沿人物自己的左侧伸出，左手握琴颈并自然按弦，右手停在拾音器上方准备扫弦；红色琴身、白珍珠护板、六弦与完整琴颈不变。手指各五指且不穿琴，姿态轻快但身体比例真实；浅灰背景，不加另一把琴、另一位人物、麦架或文字。",
+      "qaChecklist": [
+        "左手琴颈右手扫弦",
+        "红双切角琴与花纹带保持",
+        "校服身份一致，不穿原旗袍"
+      ],
+      "generationPolicy": "只使用内置 image_gen；有依赖时待其 ready 后实际上传参考文件，保存实际提示词、输入顺序、回执、原生尺寸和 SHA-256；执行型号未暴露则 unverified。",
+      "orderedImageInputs": [
+        {
+          "order": 1,
+          "assetId": "campus-qiqi-three-view",
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "referenceState": "ready",
+          "rule": "实际文件与ready回执一致；生成前仍须实际查看参考图。"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "role": "approved-guitar",
+          "referenceState": "existing"
+        }
+      ],
+      "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+      "nativeDimensions": [
+        1536,
+        1024
+      ],
+      "receiptPath": "redesign/campus-mv-v2/receipts/assets/performance-qiqi-guitar.json"
+    }
+  ],
+  "sceneMapping": {
+    "campus-track-v2": {
+      "assetId": "reuse-campus-track",
+      "status": "ready",
+      "path": "assets/scenes/campus.png",
+      "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+      "reuseNote": "已实际看图：夕阳红跑道，右侧白看台，远处白教学楼与绿色树冠。只在一致的暖金日落场景复用，不能冒称正午光。"
+    },
+    "campus-corridor-v2": {
+      "assetId": "scene-campus-corridor",
+      "status": "ready",
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+      "path": "redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+      "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a"
+    },
+    "music-room-v2": {
+      "assetId": "scene-campus-music-room",
+      "status": "ready",
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+      "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+      "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03"
+    },
+    "campus-stage-v2": {
+      "assetId": "scene-campus-stage",
+      "status": "ready",
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+      "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+      "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937"
+    },
+    "campus-rain-v2": {
+      "assetId": "scene-campus-rain",
+      "status": "ready",
+      "plannedOutput": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+      "path": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+      "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9"
+    },
+    "beach": {
+      "assetId": "reuse-beach",
+      "status": "ready",
+      "path": "assets/scenes/beach.png",
+      "sha256": "0a0d2f42b55863cf5bdc506e453ad378578c915bf2920ec4c21f0e26c6800531",
+      "reuseNote": "沿用已完成现代海边资产。笛杰solo使用原modern服装。"
+    },
+    "metro": {
+      "assetId": "reuse-metro",
+      "status": "ready",
+      "path": "assets/scenes/metro.png",
+      "sha256": "75411330dbd6d0efbf1c52d41bf0d937685fd16b77767d4934f32c4994bcc290",
+      "reuseNote": "沿用已完成都市地铁资产；出镜者用原modern服装。"
+    },
+    "shop": {
+      "assetId": "reuse-shop",
+      "status": "ready",
+      "path": "assets/scenes/shop.png",
+      "sha256": "5a2f9217aa810e5330125e71ba76a7aad4dd642d1236356a70d5abb2a06719c2",
+      "reuseNote": "沿用已完成唱片小店空间；服装严格按逐镜costumeByCast，C2-16使用校服，场景参考不决定人物衣着。"
+    }
+  },
+  "reusedAssets": [
+    {
+      "id": "reuse-guitar",
+      "kind": "independent-prop",
+      "path": "assets/props/guitar.png",
+      "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+      "status": "ready",
+      "reuseBasis": "沿用此前完成资产；本轮实际看图确认外观，未改动原文件。"
+    },
+    {
+      "id": "reuse-violin",
+      "kind": "independent-prop",
+      "path": "assets/props/violin.png",
+      "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+      "status": "ready",
+      "reuseBasis": "沿用此前完成资产；本轮实际看图确认外观，未改动原文件。"
+    },
+    {
+      "id": "reuse-camera",
+      "kind": "independent-prop",
+      "path": "assets/props/camera.png",
+      "sha256": "e03ac64c1e14f296dd04df01861fe135d187feef402e4598356f533e5a5a17f4",
+      "status": "ready",
+      "reuseBasis": "沿用此前完成资产；本轮实际看图确认外观，未改动原文件。"
+    },
+    {
+      "id": "reuse-cat-bow",
+      "kind": "cat-identity",
+      "path": "assets/characters/cat-bow/identity.webp",
+      "sha256": "d7e5e58902c5add72acb350c685ac7f19202996349431ce2dea13eba3df047b1",
+      "status": "ready",
+      "reuseBasis": "沿用此前完成资产；本轮实际看图确认外观，未改动原文件。"
+    },
+    {
+      "id": "reuse-cat-white",
+      "kind": "cat-identity",
+      "path": "assets/characters/cat-white/identity.webp",
+      "sha256": "14317355f9872098fbb2322cfc133390e93b66e3692f8106f9e0865730c3caef",
+      "status": "ready",
+      "reuseBasis": "沿用此前完成资产；本轮实际看图确认外观，未改动原文件。"
+    },
+    {
+      "id": "reuse-cat-singer",
+      "kind": "cat-identity",
+      "path": "assets/characters/cat-singer/identity.webp",
+      "sha256": "d7a5d0edc318e5ea77e1cfbac06dfd6bd75da171e5024e49a007d54e167d85b8",
+      "status": "ready",
+      "reuseBasis": "沿用此前完成资产；本轮实际看图确认外观，未改动原文件。"
+    }
+  ],
+  "finalGroupPhoto": {
+    "humans": 16,
+    "cats": 3,
+    "humanArrangement": {
+      "backRowLeftToRight": [
+        "zhu",
+        "tim",
+        "yeshiyang",
+        "baoshi",
+        "feihong",
+        "tang"
+      ],
+      "middleRowLeftToRight": [
+        "kongge",
+        "ria",
+        "azhe",
+        "xiaozhou"
+      ],
+      "frontRowLeftToRight": [
+        "dijie",
+        "qiqi",
+        "jerry",
+        "lala",
+        "shiyuan",
+        "bingbing"
+      ]
+    },
+    "catRowLeftToRight": [
+      "cat-bow",
+      "cat-white",
+      "cat-singer"
+    ],
+    "wardrobe": "15位伙伴校园校服，朱老师教师装；三猫保持现有原始形象，不套人类校服。",
+    "productionMethod": [
+      "先锁校园舞台空景和摄影机。",
+      "按C2-36固定位置分后排6人、中排4人、前排6人、前景3猫建立分层静态合照，逐层用真实身份/校服参考审核。",
+      "合成后核对每位恰好一次：16个不同人类身份＋原3猫，不能拼成重复脸。",
+      "最终合照采用已核准静态合成或极小幅镜头推近，人物不同时挥手、跳跃、转身；不一次向视频模型要求19个主体复杂动作。"
+    ],
+    "note": "以shot-design-draft.json 的C2-36 composition为唯一站位来源；此表已同步，任何换位须同步并再次计数。",
+    "sourceShot": "C2-36",
+    "micState": "垃垃右手握黑色无线麦停胸前；其余人物不复制同支麦。"
+  },
+  "uploadPolicy": [
+    "每张三视图仅同一角色同一服装正/侧/背三栏，绝不把三个视角当三个人。",
+    "生成角色板时实际输入身份根；原modern图只锁身份与发型，不锁新校服服装。",
+    "素材生成并看图QA后，逐镜实际上传相应已审查分镜图＋所有在场角色的正确版本三视图＋必要道具/操作参考；不能只把路径写进豆包提示词。",
+    "仅上传实际在场角色，按分镜列出图片顺序；多人超出当次界面限制时重构镜头或拆静态层，不能静默漏传身份。",
+    "无论旧资产还是新资产，进入图片/豆包参考清单时必须记录实际文件哈希；校服未ready时不可用原modern衣装冒充。",
+    "同一场地与时段的校服袖长、领带、裙裤与鞋不能跳变；城市场景换装必须由逐镜wardrobeVariant字段显式指定。"
+  ],
+  "generationOrder": [
+    "16角色三视图，麦克风、竹笛和琴弓可独立开始",
+    "廊道、音乐教室、校园舞台依旧环境结构建新变体",
+    "雨后校园依已审查廊道；操作参考依对应角色/道具/空间ready",
+    "逐镜重新制作真实分镜图，再按镜头上传豆包；旧36张便服分镜不作校服分镜成品"
+  ],
+  "verification": {
+    "plannedAssetCount": 29,
+    "humanCount": 16,
+    "campusUniformCount": 15,
+    "teacherCount": 1,
+    "newMediaGenerated": false,
+    "newMediaHash": null,
+    "sourceHashesComputedFromDisk": true,
+    "visualInspectEvidence": "实际看过12人identity+modern对照、4个新增正式身份图、笛杰独立大图、校园/教室/旧海边舞台、三猫及吉他/小提琴/相机；其余旧场景沿用既有QA，不冒称本轮重新审查。"
+  }
+}

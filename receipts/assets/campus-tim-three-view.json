@@ -1,0 +1,45 @@
+{
+  "assetId": "campus-tim-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-8e65e3fd-d42d-4be0-b023-e3ec73973abf.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "66c755c84de660dd81332b2e46a93ed666e39e400167ff192c59a5bcb4dd1ec0",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T14:54:35.654546+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-tim-three-view.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/identity.webp",
+      "sha256": "f83185d83d16a10ec44c264b7647a4d735ac2608930a762c73cfb9f7c25ca3d9",
+      "role": "identity",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/modern.png",
+      "sha256": "a11742bd5a38f20bb94596b92ef52d290aecb9a0ea443e4a5b4be859f8fda756",
+      "role": "secondary-face-hair-side-back-only",
+      "referenceState": "existing"
+    },
+    {
+      "order": 3,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "role": "uniform-palette-material-and-render-style-only-not-identity",
+      "referenceState": "existing",
+      "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：同一成年TIM正/严格侧/背三视图，侧分蓬松短发、细边矩形眼镜与利落下颌保持。白衬衫挽袖高度一致，酒红细白条领带、深蓝长裤和白鞋清晰；头脚完整，无黑西装或乐器，无文字。",
+    "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+  }
+}

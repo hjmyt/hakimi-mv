@@ -1,0 +1,120 @@
+{
+  "schema": "hakimi-independent-assets-review-v1",
+  "reviewerAgentId": "/root/mv_review",
+  "createdAt": "2026-10-29T15:25:53.628805+00:00",
+  "status": "passed_with_minor",
+  "coverage": {
+    "generatedAssetsViewed": 5,
+    "sourceImagesViewedThisBatch": 3,
+    "sourceImagesInheritedFromActualBatch01Viewing": 5,
+    "totalActualImagesViewedThisBatch": 8
+  },
+  "assets": [
+    {
+      "assetId": "campus-azhe-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/azhe/campus-three-view.png",
+      "sha256": "35c3a24c6bec79dc2c12d621e5f40d7b3c55c19dbe18401e31ee5bcf3f2ac2af",
+      "receiptSha256": "1d1e91b7a9a3a0bbed9ec6fd7465ee331a36be94403b541c5b0bd109f4043f89",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/azhe-full-2026-10.webp",
+          "sha256": "d22636691dce80d486c33375b968c0de8e4fa50e7c8fc7137dcc912c513af27e",
+          "viewEvidence": "本批实际看图"
+        }
+      ],
+      "observations": "正侧背同一阿喆，纤细脸形、棕卷发与细圆金属镜相符，校服挽袖、长裤白鞋一致，全身完整。"
+    },
+    {
+      "assetId": "campus-ria-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+      "sha256": "45063bc2a4423ae8e010024b1496a87b693bdfbd034b87bfc9ec1d166dfac53f",
+      "receiptSha256": "f6972b1671dbaca8e355a789b2dce71ad956fbf8dbf51d387115adab47818bb9",
+      "status": "passed_with_minor",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/ria-full-2026-10.webp",
+          "sha256": "925e2a78f793ce32c209199e639b667f7ebb9bce23e43e636f6b081606e77b7a",
+          "viewEvidence": "本批实际看图"
+        }
+      ],
+      "observations": "正侧背同一RIA，长深棕波浪发、无眼镜、珍珠耳饰与成年脸形保持，挽袖校服和白鞋一致，全身完整；裙摆略高膝见minor。"
+    },
+    {
+      "assetId": "campus-xiaozhou-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+      "sha256": "ab7867717f9ae7cff7576847af1be2a57b7a085574d99c2362d0fbb081f674ce",
+      "receiptSha256": "983e3306b6a7b55905b038bfa78322bff552c138dd49e5585219683ae693db85",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/xiaozhou-portrait.webp",
+          "sha256": "b70cabeae5a0391efbd6033430b56b87d9a47c552fc84e7a63376825e5e40600",
+          "viewEvidence": "本批实际看图"
+        }
+      ],
+      "observations": "正侧背同一小周，黑卷短发、细长脸、明确无眼镜保持；挽袖校服、领带、长裤白鞋一致，双脚完整。"
+    },
+    {
+      "assetId": "performance-dijie-flute",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/dijie-bamboo-flute.png",
+      "sha256": "c160d9dd44544c025544107776608dd18c21d443c6be061a0435794df1307b6c",
+      "receiptSha256": "4af3a1eb2473dad26d7ac5a50b1f9bb823cf3fdea97355f2ca6ef37313c5c624",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "viewEvidence": "batch01中已实际看过同文件，当前据此比较"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "viewEvidence": "batch01中已实际看过同文件，当前据此比较"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+          "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+          "viewEvidence": "batch01中已实际看过同文件，当前据此比较"
+        }
+      ],
+      "observations": "单人笛杰modern格子外衫；黄褐竹笛沿本人右侧横出，左手近吹孔、右手近尾，双手接触自然；下唇靠吹孔，完整笛身，未变银笛/竖笛，无柒柒。"
+    },
+    {
+      "assetId": "performance-lala-mic",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+      "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+      "receiptSha256": "032795261533936f499b8566e2e4f3e38a1fb5c556a0438e2ba3c466ec4fa892",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "viewEvidence": "batch01中已实际看过同文件，当前据此比较"
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "viewEvidence": "batch01中已实际看过同文件，当前据此比较"
+        }
+      ],
+      "observations": "单人垃垃校服、长棕卷发和白蝴蝶结保持；本人右手握一支黑色无线麦，左手张开，无换手或重复麦；麦嘴分离，网罩/握柄完整，双手未见明确多指。"
+    }
+  ],
+  "findings": [
+    {
+      "id": "A03-01",
+      "severity": "minor",
+      "status": "accepted_no_rework",
+      "assetId": "campus-ria-three-view",
+      "evidence": "正侧背裙摆均略高于膝盖，而设计文案称及膝，较其它女性校服裙略短。",
+      "recommendation": "不影响身份及统一服装体系，不建议为此盲目返工；后续同角色镜头沿用已定三视图长度。"
+    }
+  ],
+  "openMustFixCount": 0,
+  "limitations": [
+    "仅静态图片审查；未验证视频连续运动/口型/逐音演奏。",
+    "既已看过的5张接触参考输入沿用batch01实际观察，本批未重复全图显示。",
+    "人物与乐器实际声学表现不在静态图审查能力范围。"
+  ]
+}

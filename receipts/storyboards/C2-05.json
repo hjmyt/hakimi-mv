@@ -1,0 +1,82 @@
+{
+  "id": "C2-05",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-05.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-1bccbc2b-39cc-4bd5-9f59-6c565cd38a90.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83 as /Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-1bccbc2b-39cc-4bd5-9f59-6c565cd38a90.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-05.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+      "role": "柒柒校服正侧背三视图；同一人三个角度",
+      "kind": "character",
+      "entityId": "qiqi",
+      "status": "ready",
+      "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+      "order": 1,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+      "role": "音乐教室排练区空间锚点与光线",
+      "kind": "scene",
+      "entityId": "music-room-v2",
+      "status": "ready",
+      "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+      "order": 2,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-music-room.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png",
+      "role": "红色电吉他结构、颜色与尺度",
+      "kind": "prop",
+      "entityId": "guitar",
+      "status": "ready",
+      "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+      "order": 3,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+      "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+      "kind": "performance-contact",
+      "entityId": "qiqi",
+      "status": "ready",
+      "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+      "order": 4,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png"
+    },
+    {
+      "path": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-927d8bda-bbed-47f7-bfca-b8ae388157eb.png",
+      "role": "本镜待修初稿：只用于保留构图与人物演奏关系，扩大取景并清理额外背景乐器",
+      "status": "ready",
+      "order": 5,
+      "actualUploadedPath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-927d8bda-bbed-47f7-bfca-b8ae388157eb.png",
+      "sha256": "34e61c99058011277a79df0c627cd2f9a7785e8aa4207cfb6575f89503cd9e2b"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "逐图实看：仅柒柒一人，盘发与花形发饰保留，白短袖与酒红细条领带、深海军蓝百褶裙。红色电吉他琴体、完整琴颈及琴头均在画内，花纹背带固定于左肩，左手正常指板位置、右手拨弦。暖日音乐教室中只一台固定黑色立式钢琴和一琴凳，额外鼓组已移除。发髻与完整吉他均留边，无文字和额外人物。",
+    "limitations": "膝盖以下不在中景取景范围，鞋袜不可见；静帧构图验收，未生成或验证运动视频。"
+  },
+  "generationHistory": [
+    {
+      "status": "superseded",
+      "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-927d8bda-bbed-47f7-bfca-b8ae388157eb.png",
+      "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-05-attempt1.txt",
+      "reason": "初稿发髻与琴体边缘裁切、背景多出鼓组；已只修取景和场景陈设。"
+    }
+  ],
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "1440df7531ae6a23023407f969009361a9b2d945424c17de93fd8d11a94c7b21",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:45:13.820598+00:00",
+  "status": "ready"
+}

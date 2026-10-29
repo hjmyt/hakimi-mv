@@ -1,0 +1,50 @@
+{
+  "reviewerAgentId": "/root",
+  "independentOfGenerators": [
+    "/root/mv_wardrobe",
+    "/root/mv_shot_design"
+  ],
+  "createdAt": "2026-10-29T15:31:25.571950+00:00",
+  "status": "passed",
+  "assets": [
+    {
+      "assetId": "performance-shiyuan-violin",
+      "path": "redesign/campus-mv-v2/assets/performance/shiyuan-violin-bow.png",
+      "sha256": "996461ba2e94d0bbc297c9560dbb18eb95b0a0548f4c8399a654f35f306489f8",
+      "status": "passed_visual_review",
+      "observations": "与实际校服图对照，十元金星夹、短卷发和短袖正确；左肩托琴、左手琴颈、右手弓根清晰，完整琴弓接弦。"
+    },
+    {
+      "assetId": "performance-ria-violin",
+      "path": "redesign/campus-mv-v2/assets/performance/ria-violin-bow.png",
+      "sha256": "a0680efb68430c53dc26fbfc1478765f80ac2f4664f36348416fd2a7f1035cbe",
+      "status": "passed_visual_review",
+      "observations": "与实际校服图及原RIA形象对照，长深棕发和珍珠耳饰保持；左肩托琴、左手指板、右手弓根，琴弓完整接弦。"
+    },
+    {
+      "assetId": "performance-xiaozhou-piano",
+      "path": "redesign/campus-mv-v2/assets/performance/xiaozhou-piano-hands.png",
+      "sha256": "fa78f03f7433a17d028e71bd0f0172b20db8eab353ec578d749e2812586ea520",
+      "status": "passed_visual_review",
+      "observations": "与实际三视图和音乐教室图对照，小周无眼镜，黑发细长脸、挽袖领带保持；坐于同一黑色立式琴前，双手触键，近端黑键2/3分组可辨。远端透视不作逐键或逐音验证。"
+    },
+    {
+      "assetId": "scene-campus-rain",
+      "path": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+      "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9",
+      "status": "passed_visual_review",
+      "observations": "对照实际campus-corridor图：左窗右门、尽头栏杆和外部操场一致，雨后蓝天与地面湿润反光，无人无文字。"
+    },
+    {
+      "assetId": "performance-qiqi-guitar",
+      "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+      "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+      "status": "passed_visual_review",
+      "observations": "实际对照柒柒校服三视图与原红电吉他，盘髻花簪和短袖保持；本人左手琴颈，右手拾音器上方，花纹肩带承托，完整红双切角琴/六个旋钮/白珍珠护板一致，无多余琴或人物。"
+    }
+  ],
+  "openMustFixCount": 0,
+  "limitations": [
+    "实际静态审图；未验证演奏逐音或视频连续性。"
+  ]
+}

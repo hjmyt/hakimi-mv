@@ -1,0 +1,17 @@
+{
+  "status": "passed_partial_media",
+  "mainShots": 40,
+  "coverageShots": 11,
+  "legacyShotsRedesigned": 36,
+  "humans": 16,
+  "cats": 3,
+  "newAssetsPlanned": 29,
+  "checkedLocalLinks": 474,
+  "selectedHighlightPreserved": "exports/梦想哈基米-精华版-v4.mp4",
+  "newMediaGenerated": true,
+  "lyricAlignment": "pending",
+  "singingLipSync": "requires_audio_excerpt_and_capability_validation",
+  "boundary": "结构、文件哈希、回执和逐图审查记录检查；精确歌词时间与视频视听仍待后续制作。",
+  "assetsReady": 29,
+  "storyboardsReady": 19
+}

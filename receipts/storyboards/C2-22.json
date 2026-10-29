@@ -1,0 +1,35 @@
+{
+  "id": "C2-22",
+  "shotId": "C2-22",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-22.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-bfd0dd07-79b8-4c87-a61f-27329eb7e1ff.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-bfd0dd07-79b8-4c87-a61f-27329eb7e1ff.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-22.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-2ba42c90-de09-4712-99bd-9469072040a1.png",
+      "role": "edit-target-first-attempt-remove-corner-mark",
+      "referenceState": "generated_needs_fix",
+      "order": 1,
+      "actualUploadedPath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-2ba42c90-de09-4712-99bd-9469072040a1.png",
+      "sha256": "69bc1a96e3f63a30960d91e634ce0f4f4cc4c9b9597b703b8624ae95a05b94ea"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看修正版：右上角淡猫头角标已消失，只有自然天空。冰冰独立全身轻跑，脸/长黑发/白花耳饰与校服保持，双手空、两腿与鞋完整，场景无额外人物或文字。",
+    "limitations": "仅静态图检查，尚无动态视频。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "26355ac1a98b9f23b21afb6cf355f3e1989e6950bb166119b0744932aaa6650e",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:48:32.237499+00:00",
+  "status": "ready"
+}

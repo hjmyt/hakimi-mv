@@ -1,0 +1,224 @@
+{
+  "schema": "hakimi-independent-assets-review-v1",
+  "reviewerAgentId": "/root/mv_review",
+  "createdAt": "2026-10-29T15:17:29.164584+00:00",
+  "status": "passed_visual_review",
+  "scope": "第二批11项真实ready图片；全部逐图view_image并与相应身份或空间/道具源图对照。",
+  "coverage": {
+    "generatedAssetsViewed": 11,
+    "uniqueSourceImagesViewed": 17,
+    "totalActualImagesViewed": 28,
+    "previousBatch": "independent-assets-batch-01.json",
+    "bambooFlute": "本批未重复查看；沿用batch01绑定SHA的已审竹笛，未将其算作新增覆盖。"
+  },
+  "assets": [
+    {
+      "assetId": "campus-shiyuan-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+      "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+      "receiptSha256": "f70daa48bbfc69e0bde785226031ae4c97cfd79c837c5a5a24e3aa26486b036d",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/identity.webp",
+          "sha256": "e73d6c9295c75e22447d21698632c42dbd77eb57b734023eb2486b71ef7a1184",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+          "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一十元正侧背三视图；棕短波波头、脸型和金色五角星发夹保持，星夹正侧位置相容、背面无重复星夹。短袖白衬衫、酒红领带、深蓝及膝裙、白袜鞋一致，双脚完整。"
+    },
+    {
+      "assetId": "teacher-zhu-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+      "sha256": "7c930dcddacc90357f35bc07bd35ce78190632950ca0354f1a7116416e5aa38e",
+      "receiptSha256": "8ede3921095124658f3d615e8bfaaba5aa6b2dabb63bba29fc7ad30c4cb9ff11",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/identity.webp",
+          "sha256": "c1b1c6231c0571f943fef5e47f6cdbe766f965f6e0d296bbf06157cef2ac2edd",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/modern.png",
+          "sha256": "c9890b36930768c0ba3e1ec99bf7fb49061a733cca0b2a4d94029615341e4181",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一朱老师正面、严格侧面、背面；成熟脸、黑发与矩形镜保持，无学生领带。白衬衫挽袖、深蓝裤、黑鞋一致，头脚完整；侧面朝向沿用源modern图，仍可用于身份轮廓参考。"
+    },
+    {
+      "assetId": "campus-bingbing-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/bingbing/campus-three-view.png",
+      "sha256": "be10c3615dacf686abb47072036186f535c0913fc5add151b202e297df124ba7",
+      "receiptSha256": "99b7c8f45d1070c6443fd8ae3c4137fafa9eb8676743b84d0cf558e5bd47473f",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/identity.webp",
+          "sha256": "62dd594e432d930da568f05802ecae09a4d4dfffbf4b265a5e0410d5939bb09c",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/modern.png",
+          "sha256": "eedfc47b01e7e3bd02731ecc6b5fb52cf79ab17262d66eed1d48b231ae4543fe",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一冰冰正侧背；长黑发、白花发饰、长垂耳饰和柔和脸型与源图相符。挽袖校服/领带/及膝裙一致，手脚完整，无大提琴或旧白裙。"
+    },
+    {
+      "assetId": "campus-baoshi-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/baoshi/campus-three-view.png",
+      "sha256": "c32367040bc2bd2cbaa2f9d5ed15b26581870e3f2beeed247f00c39419a535ed",
+      "receiptSha256": "d75ebc7713591b652d0666f31f87b29fef9b8de8ed993df006250d9b31872cef",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/identity.webp",
+          "sha256": "83f140fe6a670a15887201918281ab6deda43ad75f17d4f02fec66bb0a0fd885",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/baoshi/modern.png",
+          "sha256": "6dc9e1dcd9b2e4c8094f613dd1fa110fe7be19933440dc4a882862b376c5b767",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一宝石三视图，略长蓬松黑发、无眼镜及脸型保持。白短袖、酒红领带、深蓝裤和白鞋一致，头脚完整，无旧外套或话筒。"
+    },
+    {
+      "assetId": "campus-feihong-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/feihong/campus-three-view.png",
+      "sha256": "e2eda58dffa2861ae651ca43779a46f62c17f73858b94d62aa3e3beb65125296",
+      "receiptSha256": "7c52797d1cec27a829aa7e3a3343d0b1eeb79376483eb8adaa962113868039e7",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/identity.webp",
+          "sha256": "2d14e25196b74c48b739352b95be722c1c54489a230633b77149999bc2e9008d",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/feihong/modern.png",
+          "sha256": "1bafa12be07bab34da40f2ac861faccb653bf6222f17b496f542add114427097",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一飞鸿三视图，较短乱发、矩形镜与清瘦脸型相符。与当前文案一致的白长袖挽袖、领带、深蓝裤、白鞋，头脚完整；无黑手套和外露银链。"
+    },
+    {
+      "assetId": "campus-tang-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/tang/campus-three-view.png",
+      "sha256": "02a563427d10584ba5e920e212175defd2470965820c2588188baac5faf88cc3",
+      "receiptSha256": "54c94afd32f0d04546fab8444eddb274aabb52807b17dff9e7e02c0e334712a7",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/identity.webp",
+          "sha256": "c7f1561c4e2369761c281b8fdf39ed0b9d5e0f090f03342b96c76f41373a084c",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tang/modern.png",
+          "sha256": "cfade05a446f27d5a7ae10a5b45ecd44218caffcba4a51f5304ec11a7ce355eb",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一汤少三视图；上梳短发、矩形镜、较圆成熟脸保持。白短袖、领带、深蓝长裤、白鞋一致，双脚完整，无背包/相机。"
+    },
+    {
+      "assetId": "campus-kongge-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/kongge/campus-three-view.png",
+      "sha256": "87342cc5cb7e308f086f52643c8d72d54a93c84967d6e3ccd984ad7dc69504ce",
+      "receiptSha256": "15bd44bf18d79cbbb367a9a840d195b306637c4886f77d8f7d14ed3cd844feb5",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/kongge-portrait-selected.webp",
+          "sha256": "37c02dee9103e47bd4fa651d403b658f077b7482e99d91453afb70fcbb330b4a",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一空格正侧背；壮实身形、圆脸、粗矩形镜及短乱发保持。白短袖、领带、深蓝裤与白鞋一致，双脚完整，按设计去掉腕表，无琴。"
+    },
+    {
+      "assetId": "prop-violin-bow",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png",
+      "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+      "receiptSha256": "5c6206c5c5ed9e69dce1c6e8eb8a8e1962b685e2ba32271dc292b96049cdc5c8",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/assets/characters/ria-full-2026-10.webp",
+          "sha256": "925e2a78f793ce32c209199e639b667f7ebb9bce23e43e636f6b081606e77b7a",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "一支完整琴弓，棕木弓杆、浅色弓毛分离连续，左弓尖和右弓根/螺丝完整，无人物或第二支弓；外观与源图风格相容，持弓接触及与琴的尺度待组合参考验证。"
+    },
+    {
+      "assetId": "scene-campus-corridor",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+      "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+      "receiptSha256": "4908fe4af44f48d9f9156f824eacda1062778bc6f0dd968d432d00b8671eb4b3",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "无人现代校园廊道；左连续矩形窗、右三门、尽头栏杆清楚，地面无障碍；窗外红跑道和白教学楼与校园源图相容。"
+    },
+    {
+      "assetId": "scene-campus-stage",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+      "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+      "receiptSha256": "457bfdee4e768b44281f3ee63ddcd5ccaa2ae8627ee21efb1f12884af01b4348",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "无人低矮木舞台，左侧台阶、蓝顶棚、无字背景布、左右音箱可见；右后白教学楼与看台对应校园源图，无海景/麦架/乐器/人群。"
+    },
+    {
+      "assetId": "scene-campus-music-room",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+      "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+      "receiptSha256": "bc610d6f4e9bf1f6a6cfc2bdaf4c57cdb178fd76df9aec67cedf58083d48ee88",
+      "status": "passed_visual_review",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/classroom.png",
+          "sha256": "41f5cc92880492cb8e68db372a079aca4e274ee16b96596f397d7e12d6e02e25",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "无人音乐教室，左窗/后黑板/右门结构延续源图，桌椅移至右侧，中央空地明确；一台黑立式琴和一张琴凳，未添其他乐器。远景只确认键盘存在及总体平行结构，不声称逐琴键分组均验证。"
+    }
+  ],
+  "findings": [],
+  "openMustFixCount": 0,
+  "limitations": [
+    "静态图通过不等于视频运动、接触姿势、嘴型或连续性通过；本批没有新视频审查。",
+    "音乐教室远景不支持逐个琴键的黑键2/3组核准；小周接触参考和未来近景需另查。",
+    "道具独立图不提供物理尺寸测量或声学验证；组合接触姿势仍需检查。",
+    "仅对本报告SHA所绑定版本有效，后续新增或改图须独立增量检查；实际生成型号仍unverified。"
+  ]
+}

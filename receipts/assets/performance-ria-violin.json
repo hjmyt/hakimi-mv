@@ -1,0 +1,53 @@
+{
+  "id": "performance-ria-violin",
+  "assetId": "performance-ria-violin",
+  "kind": "asset",
+  "path": "redesign/campus-mv-v2/assets/performance/ria-violin-bow.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-53003e44-bcd8-4e16-bd28-d6e798346c54.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-53003e44-bcd8-4e16-bd28-d6e798346c54.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/performance-ria-violin.txt",
+  "references": [
+    {
+      "order": 1,
+      "assetId": "campus-ria-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+      "sha256": "45063bc2a4423ae8e010024b1496a87b693bdfbd034b87bfc9ec1d166dfac53f",
+      "referenceState": "ready",
+      "rule": "生成并实际看图合格后填入真实哈希；当前不可作为已就绪输入。",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+      "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+      "role": "instrument-body",
+      "referenceState": "existing",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png"
+    },
+    {
+      "order": 3,
+      "assetId": "prop-violin-bow",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png",
+      "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+      "referenceState": "ready",
+      "rule": "生成并实际看图合格后填入真实哈希；当前不可作为已就绪输入。",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看图：仅RIA一人，长深棕波浪发、珍珠耳饰与校服一致；小提琴置左肩与下颌，左手托琴颈并按指板，右手在弓根握弓。弓毛与杆分离，接触琴桥和指板间弦区，琴弓完整、无浮空琴或额外手。器乐姿势参考不声明逐音同步。",
+    "limitations": "执行型号未暴露；仅为静态接触结构检查。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "a0680efb68430c53dc26fbfc1478765f80ac2f4664f36348416fd2a7f1035cbe",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T15:20:27.621237+00:00",
+  "status": "ready"
+}

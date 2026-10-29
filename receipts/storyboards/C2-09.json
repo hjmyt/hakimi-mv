@@ -1,0 +1,49 @@
+{
+  "id": "C2-09",
+  "shotId": "C2-09",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-09.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-04b4ba12-cd80-47fe-8e13-358008750bf9.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-04b4ba12-cd80-47fe-8e13-358008750bf9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-09.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/modern.png",
+      "role": "TIM现代装正侧背三视图；同一人三个角度",
+      "kind": "character",
+      "entityId": "tim",
+      "status": "ready",
+      "sha256": "a11742bd5a38f20bb94596b92ef52d290aecb9a0ea443e4a5b4be859f8fda756",
+      "order": 1,
+      "referenceState": "ready",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/modern.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/metro.png",
+      "role": "城市地铁站空间锚点与光线",
+      "kind": "scene",
+      "entityId": "metro",
+      "status": "ready",
+      "sha256": "75411330dbd6d0efbf1c52d41bf0d937685fd16b77767d4934f32c4994bcc290",
+      "order": 2,
+      "referenceState": "ready",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/metro.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看图：TIM单人胸像，现代黑西装白衬衫松黑领带、眼镜发型保持，身处安全站台内；背后车体光带提供速度感，无其他乘客、行李、文本或危险追车动作。",
+    "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "782f607be10cce9822e25427ec07f93cff1bf7f9bdcb68340bcaa37ef98faf77",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:34:27.921951+00:00",
+  "status": "ready"
+}

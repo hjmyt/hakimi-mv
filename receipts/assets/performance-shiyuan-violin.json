@@ -1,0 +1,51 @@
+{
+  "id": "performance-shiyuan-violin",
+  "kind": "asset",
+  "path": "redesign/campus-mv-v2/assets/performance/shiyuan-violin-bow.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-82f2d53f-059f-41fa-a991-297b3c19b7a8.png",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/performance-shiyuan-violin.txt",
+  "references": [
+    {
+      "order": 1,
+      "assetId": "campus-shiyuan-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+      "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+      "referenceState": "existing",
+      "rule": "生成并实际看图合格后填入真实哈希；当前不可作为已就绪输入。",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png",
+      "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+      "role": "instrument-body",
+      "referenceState": "existing",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/violin.png"
+    },
+    {
+      "order": 3,
+      "assetId": "prop-violin-bow",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png",
+      "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+      "referenceState": "existing",
+      "rule": "生成并实际看图合格后填入真实哈希；当前不可作为已就绪输入。",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/violin-bow.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：只有十元，棕短发金色星夹与白短袖校服一致；小提琴承托左肩和下颌，左手指板、右手弓根，弓毛接触琴桥和指板之间的琴弦，弓尖与弓根均在画内，琴弓/琴颈完整。浅灰背景无文字或旁人。",
+    "limitations": "静态操作姿态检查，不声称音符或歌词同步。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "996461ba2e94d0bbc297c9560dbb18eb95b0a0548f4c8399a654f35f306489f8",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T15:25:38.590267+00:00",
+  "status": "ready"
+}

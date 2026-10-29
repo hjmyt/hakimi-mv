@@ -1,0 +1,49 @@
+{
+  "id": "C2-20",
+  "shotId": "C2-20",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-20.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-7fabbe96-31e8-41a3-8705-fbf3bbf7a0c8.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-7fabbe96-31e8-41a3-8705-fbf3bbf7a0c8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-20.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/modern.png",
+      "role": "叶思阳现代装正侧背三视图；同一人三个角度",
+      "kind": "character",
+      "entityId": "yeshiyang",
+      "status": "ready",
+      "sha256": "1121c4d8259e3e4200d705080d4292bab5fb2746f636071ad2fd411df31eb22e",
+      "order": 1,
+      "referenceState": "ready",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/modern.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/metro.png",
+      "role": "城市地铁站空间锚点与光线",
+      "kind": "scene",
+      "entityId": "metro",
+      "status": "ready",
+      "sha256": "75411330dbd6d0efbf1c52d41bf0d937685fd16b77767d4934f32c4994bcc290",
+      "order": 2,
+      "referenceState": "ready",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/metro.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看图：仅叶思阳，微卷短黑发/黑矩形镜/现代黑衬衫与长黑双排扣外套保持，站直微低眼神，安全候车区内无额外乘客、镜面人影、手机或行李。画面是短对照首帧，后续应迅速抬眼切回校园。",
+    "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "8506f09355593a3a6256a8ff6bb7be8e1ddbc2a15bbca3126d6abf2cc2e4a598",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:42:37.651279+00:00",
+  "status": "ready"
+}

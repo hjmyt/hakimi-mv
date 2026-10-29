@@ -1,0 +1,45 @@
+{
+  "assetId": "campus-yeshiyang-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/yeshiyang/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-a5be139a-395c-4657-9298-ede2ede66a66.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "821d43baa2b0c4c86c652c7082f77345cefe422157a446e15d2cb64393fedace",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T14:55:48.805782+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-yeshiyang-three-view.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/identity.webp",
+      "sha256": "1dbb20c46209c338435e08714bba5ae66ea37d610c4caf2f4e5cc741d9383fa7",
+      "role": "identity",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/modern.png",
+      "sha256": "1121c4d8259e3e4200d705080d4292bab5fb2746f636071ad2fd411df31eb22e",
+      "role": "secondary-face-hair-side-back-only",
+      "referenceState": "existing"
+    },
+    {
+      "order": 3,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "role": "uniform-palette-material-and-render-style-only-not-identity",
+      "referenceState": "existing",
+      "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：叶思阳新版微卷蓬松短黑发、矩形黑框镜、偏瘦成年脸保持；正面/严格侧面/背面三视图完整，同一白衬衫挽袖、酒红条纹领带、深蓝裤与白鞋；侧后发型相容，无旧长黑外套、乐器或文字。",
+    "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+  }
+}

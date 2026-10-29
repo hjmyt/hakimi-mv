@@ -1,0 +1,42 @@
+{
+  "id": "performance-qiqi-guitar",
+  "kind": "asset",
+  "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-73c653ac-730b-44b9-af4c-2a4ebc305032.png",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/performance-qiqi-guitar.txt",
+  "references": [
+    {
+      "order": 1,
+      "assetId": "campus-qiqi-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+      "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+      "referenceState": "existing",
+      "rule": "生成并实际看图合格后填入真实哈希；当前不可作为已就绪输入。",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png",
+      "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+      "role": "approved-guitar",
+      "referenceState": "existing",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：只有校服柒柒，盘髻/小花簪保持，红双切角电吉他、白珍珠护板与花纹肩带清楚。肩带过左肩稳定承重，琴颈向本人左侧，左手按琴颈，右手在拾音器上方扫弦位置，琴颈/琴头完整，无多余手或穿琴、麦架和文字。",
+    "limitations": "此为半身演奏操作参考，发髻顶端略到画边；完整发型仍以三视图为准，不声称音符同步。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T15:29:26.964201+00:00",
+  "status": "ready"
+}

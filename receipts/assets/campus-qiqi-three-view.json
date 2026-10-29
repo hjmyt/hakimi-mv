@@ -1,0 +1,45 @@
+{
+  "assetId": "campus-qiqi-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-d0dfa270-2b4f-4072-a66b-ffb794b74533.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T14:56:56.414207+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-qiqi-three-view.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/identity.webp",
+      "sha256": "3761787d43759b78dac504010c12feb25e417980acf488cd2bee7ebe761e9002",
+      "role": "identity",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/modern.png",
+      "sha256": "fb22552a14a03aac33270e23605b8a3b9b353786e7fd666f5d13ad17a020ab3a",
+      "role": "secondary-face-hair-side-back-only",
+      "referenceState": "existing"
+    },
+    {
+      "order": 3,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "role": "uniform-palette-material-and-render-style-only-not-identity",
+      "referenceState": "existing",
+      "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：柒柒成熟脸型、深发盘髻、细发与小花簪保持，背面发髻结构清楚；正/严格侧/背三视图同一白短袖、酒红细白条领带、深蓝及膝百褶裙、白袜白鞋，头脚完整，无原旗袍、吉他或垃垃蝴蝶结，无文字。",
+    "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+  }
+}

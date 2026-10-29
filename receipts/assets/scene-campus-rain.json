@@ -1,0 +1,39 @@
+{
+  "assetId": "scene-campus-rain",
+  "path": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-fc053cb4-a686-4f67-9ac4-aa08d08df918.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:21:03.559017+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/scene-campus-rain.txt",
+  "references": [
+    {
+      "order": 1,
+      "assetId": "scene-campus-corridor",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+      "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+      "referenceState": "existing",
+      "rule": "生成并实际看图合格后填入真实哈希；当前不可作为已就绪输入。"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+      "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+      "role": "outside-campus-architecture",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：实际输入已完成廊道为参考1、旧校园为参考2；左矩形窗、右三扇蓝灰门、尽头栏杆与原图一致。窗外红跑道有雨后薄水反光，天空转明亮蓝白、树叶亮润，廊内地面无积水障碍，左侧正常日光。无人，无城市夜雨或霓虹。",
+    "limitations": "实际查看生成空景与已输入来源对照；执行型号未暴露。"
+  }
+}

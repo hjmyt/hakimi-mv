@@ -1,0 +1,40 @@
+{
+  "assetId": "teacher-zhu-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-cf34cd5a-9453-4636-a94b-a86577c373b8.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-cf34cd5a-9453-4636-a94b-a86577c373b8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "7c930dcddacc90357f35bc07bd35ce78190632950ca0354f1a7116416e5aa38e",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T15:08:34.730263+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/teacher-zhu-three-view.txt",
+  "finalPrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是朱老师的正式身份根，参考图2仅辅助脸型、发型、眼镜和背面头发，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定短而微蓬松黑发、深色矩形眼镜、成熟成年男性脸型与老师气质，保持原年龄感、肤色和体型。新服装严格为：白色长袖翻领衬衫，袖口各整齐挽两折至肘下，深海军蓝直筒长裤，黑色素面皮带，黑色低帮便鞋；不打学生领带、不穿学生百褶裙、不加校徽。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/identity.webp",
+      "sha256": "c1b1c6231c0571f943fef5e47f6cdbe766f965f6e0d296bbf06157cef2ac2edd",
+      "role": "identity",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/zhu/modern.png",
+      "sha256": "c9890b36930768c0ba3e1ec99bf7fb49061a733cca0b2a4d94029615341e4181",
+      "role": "secondary-face-hair-side-back-only",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看图：朱老师正/严格侧/背三视图完整；微蓬短黑发、深矩形镜和原成年脸型保持。白翻领衬衫挽袖、深海军蓝长裤、黑皮带、黑低帮鞋一致，明确无学生领带、无校徽、无原西装或指挥棒。手自然，头鞋完整。",
+    "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+  }
+}

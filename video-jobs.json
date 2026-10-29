@@ -1,0 +1,3119 @@
+{
+  "status": "planning_only",
+  "jobs": [
+    {
+      "batchId": "C2-V-01",
+      "sourceShotIds": [
+        "C2-01"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-01.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "df37e0f02b807828ede7090820ada1a35f2a746f5cb47f01dd4fc9aa174fdf0d",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-01.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-02",
+      "sourceShotIds": [
+        "C2-02"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-02.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "f8e071a1ff6f3c6bc8031ebcfb981c88954736e1172b0ddb2174c8e6e5a3b473",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/jerry/campus-three-view.png",
+          "role": "Jerry校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "jerry",
+          "status": "ready",
+          "sha256": "054178fa08e165934143af45c33c15149ddc52208eec6e2480b06b761d1c5624",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+          "role": "十元校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "shiyuan",
+          "status": "ready",
+          "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+          "order": 3
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-02.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-03",
+      "sourceShotIds": [
+        "C2-03"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-03.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "828e35a681c0e2d7de25be26a46902ea2da1ca0770d8677a83fb5368224b7452",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+          "role": "TIM校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "tim",
+          "status": "ready",
+          "sha256": "66c755c84de660dd81332b2e46a93ed666e39e400167ff192c59a5bcb4dd1ec0",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/yeshiyang/campus-three-view.png",
+          "role": "叶思阳校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "yeshiyang",
+          "status": "ready",
+          "sha256": "821d43baa2b0c4c86c652c7082f77345cefe422157a446e15d2cb64393fedace",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+          "role": "明亮教学楼回廊空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-corridor-v2",
+          "status": "ready",
+          "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-03.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-04",
+      "sourceShotIds": [
+        "C2-04"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-04.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "a62af6834bdb571d7bb4e7bc6825862e342fe9a2dea982bff11bfb61f54454a1",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-04.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-05",
+      "sourceShotIds": [
+        "C2-05"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-05.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "1440df7531ae6a23023407f969009361a9b2d945424c17de93fd8d11a94c7b21",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "role": "柒柒校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "assets/props/guitar.png",
+          "role": "红色电吉他结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "guitar",
+          "status": "ready",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+          "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-05.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-06",
+      "sourceShotIds": [
+        "C2-06"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-06.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "72634f3e74e071f50fbb3bc625b6a08a1555e105a025cd4d4be55c90ac6a27bb",
+          "order": 1
+        },
+        {
+          "path": "assets/characters/lala/modern.png",
+          "role": "垃垃现代装正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "52a43a5242927f7ad0d89d48842055ed98046f6e9c722719a46bc733125b63c6",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/beach.png",
+          "role": "夕阳海边空间锚点与光线",
+          "kind": "scene",
+          "entityId": "beach",
+          "status": "ready",
+          "sha256": "0a0d2f42b55863cf5bdc506e453ad378578c915bf2920ec4c21f0e26c6800531",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-06.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-07",
+      "sourceShotIds": [
+        "C2-07"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-07.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "c85e2370298f1e058f6919f9e1a4736d6acb35be096c85b4ad9fd2c4358e6a4a",
+          "order": 1
+        },
+        {
+          "path": "assets/characters/dijie/modern.png",
+          "role": "笛杰现代装正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "dijie",
+          "status": "ready",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/beach.png",
+          "role": "夕阳海边空间锚点与光线",
+          "kind": "scene",
+          "entityId": "beach",
+          "status": "ready",
+          "sha256": "0a0d2f42b55863cf5bdc506e453ad378578c915bf2920ec4c21f0e26c6800531",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+          "role": "笛杰黄褐色横吹竹笛结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-dijie-bamboo-flute",
+          "status": "ready",
+          "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/dijie-bamboo-flute.png",
+          "role": "笛杰手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "dijie",
+          "status": "ready",
+          "sha256": "c160d9dd44544c025544107776608dd18c21d443c6be061a0435794df1307b6c",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-07.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-08",
+      "sourceShotIds": [
+        "C2-08"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-08.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "f22f0920df002b84ca3476b365f4fb780be29160d861776cca167d703dccccf4",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-08.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-09",
+      "sourceShotIds": [
+        "C2-09"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-09.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "782f607be10cce9822e25427ec07f93cff1bf7f9bdcb68340bcaa37ef98faf77",
+          "order": 1
+        },
+        {
+          "path": "assets/characters/tim/modern.png",
+          "role": "TIM现代装正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "tim",
+          "status": "ready",
+          "sha256": "a11742bd5a38f20bb94596b92ef52d290aecb9a0ea443e4a5b4be859f8fda756",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/metro.png",
+          "role": "城市地铁站空间锚点与光线",
+          "kind": "scene",
+          "entityId": "metro",
+          "status": "ready",
+          "sha256": "75411330dbd6d0efbf1c52d41bf0d937685fd16b77767d4934f32c4994bcc290",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-09.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-10",
+      "sourceShotIds": [
+        "C2-10"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-10.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "c351a162c7bb2fc0c6b17c96ea80e4e86f8093e78401a9e58e960d4b5ccb51b5",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-10.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-11",
+      "sourceShotIds": [
+        "C2-11"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-11.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "31f4bbf6b0961b23c1c97e97bb64fad64e323a125feb1dcb4867fcbb88308c0a",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+          "role": "朱老师教师装正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "zhu",
+          "status": "ready",
+          "sha256": "7c930dcddacc90357f35bc07bd35ce78190632950ca0354f1a7116416e5aa38e",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-11.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-12",
+      "sourceShotIds": [
+        "C2-12"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-12.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-12.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-13",
+      "sourceShotIds": [
+        "C2-13"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-13.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "f73bf0078b3b0b0334dbe5361bb7b0fa30844f6fa80fb6fa98d719760e28dc31",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "role": "柒柒校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "assets/props/guitar.png",
+          "role": "红色电吉他结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "guitar",
+          "status": "ready",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+          "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-13.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-14",
+      "sourceShotIds": [
+        "C2-14"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-14.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-14.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-15",
+      "sourceShotIds": [
+        "C2-15"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-15.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "1e7d6443a846c42dd3bf77d026a25713f46d8672286ea90e2d1d7288f5deb490",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+          "role": "十元校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "shiyuan",
+          "status": "ready",
+          "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "assets/props/violin.png",
+          "role": "小提琴结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "violin",
+          "status": "ready",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/violin-bow.png",
+          "role": "完整小提琴琴弓结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-violin-bow",
+          "status": "ready",
+          "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+          "order": 5
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/shiyuan-violin-bow.png",
+          "role": "十元手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "shiyuan",
+          "status": "ready",
+          "sha256": "996461ba2e94d0bbc297c9560dbb18eb95b0a0548f4c8399a654f35f306489f8",
+          "order": 6
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-15.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-16",
+      "sourceShotIds": [
+        "C2-16"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-16.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/shop.png",
+          "role": "温暖唱片小店空间锚点与光线",
+          "kind": "scene",
+          "entityId": "shop",
+          "status": "ready",
+          "sha256": "5a2f9217aa810e5330125e71ba76a7aad4dd642d1236356a70d5abb2a06719c2",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-16.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-17",
+      "sourceShotIds": [
+        "C2-17"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-17.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "c647d30809b2b07f3a419ba3235d65743bc22ea7092d3a25298531234c25b3c6",
+          "order": 1
+        },
+        {
+          "path": "assets/characters/cat-bow/identity.webp",
+          "role": "奶白蝴蝶结橘色虎斑猫身份图；保持原猫外形",
+          "kind": "character",
+          "entityId": "cat-bow",
+          "status": "ready",
+          "sha256": "d7e5e58902c5add72acb350c685ac7f19202996349431ce2dea13eba3df047b1",
+          "order": 2
+        },
+        {
+          "path": "assets/characters/cat-white/identity.webp",
+          "role": "棉花糖白猫身份图；保持原猫外形",
+          "kind": "character",
+          "entityId": "cat-white",
+          "status": "ready",
+          "sha256": "14317355f9872098fbb2322cfc133390e93b66e3692f8106f9e0865730c3caef",
+          "order": 3
+        },
+        {
+          "path": "assets/characters/cat-singer/identity.webp",
+          "role": "小主唱灰猫身份图；保持原猫外形",
+          "kind": "character",
+          "entityId": "cat-singer",
+          "status": "ready",
+          "sha256": "d7a5d0edc318e5ea77e1cfbac06dfd6bd75da171e5024e49a007d54e167d85b8",
+          "order": 4
+        },
+        {
+          "path": "assets/scenes/shop.png",
+          "role": "温暖唱片小店空间锚点与光线",
+          "kind": "scene",
+          "entityId": "shop",
+          "status": "ready",
+          "sha256": "5a2f9217aa810e5330125e71ba76a7aad4dd642d1236356a70d5abb2a06719c2",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-17.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-18",
+      "sourceShotIds": [
+        "C2-18"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-18.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "fa91de01223b29566a5e05ba5e0f7a5d250840998c133978e5b94b839145b86f",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/baoshi/campus-three-view.png",
+          "role": "宝石校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "baoshi",
+          "status": "ready",
+          "sha256": "c32367040bc2bd2cbaa2f9d5ed15b26581870e3f2beeed247f00c39419a535ed",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/feihong/campus-three-view.png",
+          "role": "飞鸿校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "feihong",
+          "status": "ready",
+          "sha256": "e2eda58dffa2861ae651ca43779a46f62c17f73858b94d62aa3e3beb65125296",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+          "role": "明亮教学楼回廊空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-corridor-v2",
+          "status": "ready",
+          "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-18.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-19",
+      "sourceShotIds": [
+        "C2-19"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-19.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "role": "柒柒校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "assets/props/guitar.png",
+          "role": "红色电吉他结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "guitar",
+          "status": "ready",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+          "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-19.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-20",
+      "sourceShotIds": [
+        "C2-20"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-20.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "8506f09355593a3a6256a8ff6bb7be8e1ddbc2a15bbca3126d6abf2cc2e4a598",
+          "order": 1
+        },
+        {
+          "path": "assets/characters/yeshiyang/modern.png",
+          "role": "叶思阳现代装正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "yeshiyang",
+          "status": "ready",
+          "sha256": "1121c4d8259e3e4200d705080d4292bab5fb2746f636071ad2fd411df31eb22e",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/metro.png",
+          "role": "城市地铁站空间锚点与光线",
+          "kind": "scene",
+          "entityId": "metro",
+          "status": "ready",
+          "sha256": "75411330dbd6d0efbf1c52d41bf0d937685fd16b77767d4934f32c4994bcc290",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-20.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-21",
+      "sourceShotIds": [
+        "C2-21"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-21.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-21.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-22",
+      "sourceShotIds": [
+        "C2-22"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-22.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "26355ac1a98b9f23b21afb6cf355f3e1989e6950bb166119b0744932aaa6650e",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/bingbing/campus-three-view.png",
+          "role": "冰冰校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "bingbing",
+          "status": "ready",
+          "sha256": "be10c3615dacf686abb47072036186f535c0913fc5add151b202e297df124ba7",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-22.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-23",
+      "sourceShotIds": [
+        "C2-23"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-23.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-23.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-24",
+      "sourceShotIds": [
+        "C2-24"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-24.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+          "role": "TIM校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "tim",
+          "status": "ready",
+          "sha256": "66c755c84de660dd81332b2e46a93ed666e39e400167ff192c59a5bcb4dd1ec0",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+          "role": "十元校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "shiyuan",
+          "status": "ready",
+          "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+          "role": "雨后校园外廊空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-rain-v2",
+          "status": "ready",
+          "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-24.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-25",
+      "sourceShotIds": [
+        "C2-25"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-25.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-25.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-26",
+      "sourceShotIds": [
+        "C2-26"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-26.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "8be70f24104fc692f4087bafc22af7d839fb1148e73e812817ddc372eed38cd6",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/jerry/campus-three-view.png",
+          "role": "Jerry校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "jerry",
+          "status": "ready",
+          "sha256": "054178fa08e165934143af45c33c15149ddc52208eec6e2480b06b761d1c5624",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-26.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-27",
+      "sourceShotIds": [
+        "C2-27"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-27.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-27.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-28",
+      "sourceShotIds": [
+        "C2-28"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-28.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-28.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-29",
+      "sourceShotIds": [
+        "C2-29"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-29.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "ready",
+          "sha256": "fb75e1539d2356e54e07f84b9b414c19fd1f9d8a795edbbd6e0c6f1d1fbb9a22",
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+          "role": "朱老师教师装正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "zhu",
+          "status": "ready",
+          "sha256": "7c930dcddacc90357f35bc07bd35ce78190632950ca0354f1a7116416e5aa38e",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-29.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-30",
+      "sourceShotIds": [
+        "C2-30"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-30.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-30.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-31",
+      "sourceShotIds": [
+        "C2-31"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-31.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/tang/campus-three-view.png",
+          "role": "汤少校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "tang",
+          "status": "ready",
+          "sha256": "02a563427d10584ba5e920e212175defd2470965820c2588188baac5faf88cc3",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 3
+        },
+        {
+          "path": "assets/props/camera.png",
+          "role": "相机结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "camera",
+          "status": "ready",
+          "sha256": "e03ac64c1e14f296dd04df01861fe135d187feef402e4598356f533e5a5a17f4",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-31.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-32",
+      "sourceShotIds": [
+        "C2-32"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-32.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-32.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-33",
+      "sourceShotIds": [
+        "C2-33"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-33.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/bingbing/campus-three-view.png",
+          "role": "冰冰校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "bingbing",
+          "status": "ready",
+          "sha256": "be10c3615dacf686abb47072036186f535c0913fc5add151b202e297df124ba7",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/yeshiyang/campus-three-view.png",
+          "role": "叶思阳校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "yeshiyang",
+          "status": "ready",
+          "sha256": "821d43baa2b0c4c86c652c7082f77345cefe422157a446e15d2cb64393fedace",
+          "order": 3
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-33.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-34",
+      "sourceShotIds": [
+        "C2-34"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-34.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-34.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-35",
+      "sourceShotIds": [
+        "C2-35"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-35.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/baoshi/campus-three-view.png",
+          "role": "宝石校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "baoshi",
+          "status": "ready",
+          "sha256": "c32367040bc2bd2cbaa2f9d5ed15b26581870e3f2beeed247f00c39419a535ed",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/feihong/campus-three-view.png",
+          "role": "飞鸿校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "feihong",
+          "status": "ready",
+          "sha256": "e2eda58dffa2861ae651ca43779a46f62c17f73858b94d62aa3e3beb65125296",
+          "order": 3
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-35.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-37",
+      "sourceShotIds": [
+        "C2-37"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-37.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/kongge/campus-three-view.png",
+          "role": "空格校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "kongge",
+          "status": "ready",
+          "sha256": "87342cc5cb7e308f086f52643c8d72d54a93c84967d6e3ccd984ad7dc69504ce",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-37.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-38",
+      "sourceShotIds": [
+        "C2-38"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-38.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+          "role": "RIA校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "ria",
+          "status": "ready",
+          "sha256": "45063bc2a4423ae8e010024b1496a87b693bdfbd034b87bfc9ec1d166dfac53f",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "assets/props/violin.png",
+          "role": "小提琴结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "violin",
+          "status": "ready",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/violin-bow.png",
+          "role": "完整小提琴琴弓结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-violin-bow",
+          "status": "ready",
+          "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+          "order": 5
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/ria-violin-bow.png",
+          "role": "RIA手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "ria",
+          "status": "ready",
+          "sha256": "a0680efb68430c53dc26fbfc1478765f80ac2f4664f36348416fd2a7f1035cbe",
+          "order": 6
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-38.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-39",
+      "sourceShotIds": [
+        "C2-39"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-39.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/azhe/campus-three-view.png",
+          "role": "阿喆校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "azhe",
+          "status": "ready",
+          "sha256": "35c3a24c6bec79dc2c12d621e5f40d7b3c55c19dbe18401e31ee5bcf3f2ac2af",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+          "role": "雨后校园外廊空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-rain-v2",
+          "status": "ready",
+          "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9",
+          "order": 3
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-39.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-40",
+      "sourceShotIds": [
+        "C2-40"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": false,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-40.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+          "role": "小周校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "xiaozhou",
+          "status": "ready",
+          "sha256": "ab7867717f9ae7cff7576847af1be2a57b7a085574d99c2362d0fbb081f674ce",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/xiaozhou-piano-hands.png",
+          "role": "小周手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "xiaozhou",
+          "status": "ready",
+          "sha256": "fa78f03f7433a17d028e71bd0f0172b20db8eab353ec578d749e2812586ea520",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-40.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-01B",
+      "sourceShotIds": [
+        "C2-01B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-01B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/campus.png",
+          "role": "金色校园操场空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-track-v2",
+          "status": "ready",
+          "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-01B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-05B",
+      "sourceShotIds": [
+        "C2-05B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-05B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "role": "柒柒校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "assets/props/guitar.png",
+          "role": "红色电吉他结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "guitar",
+          "status": "ready",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+          "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-05B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-07B",
+      "sourceShotIds": [
+        "C2-07B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-07B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "assets/characters/dijie/modern.png",
+          "role": "笛杰现代装正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "dijie",
+          "status": "ready",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "order": 2
+        },
+        {
+          "path": "assets/scenes/beach.png",
+          "role": "夕阳海边空间锚点与光线",
+          "kind": "scene",
+          "entityId": "beach",
+          "status": "ready",
+          "sha256": "0a0d2f42b55863cf5bdc506e453ad378578c915bf2920ec4c21f0e26c6800531",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+          "role": "笛杰黄褐色横吹竹笛结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-dijie-bamboo-flute",
+          "status": "ready",
+          "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/dijie-bamboo-flute.png",
+          "role": "笛杰手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "dijie",
+          "status": "ready",
+          "sha256": "c160d9dd44544c025544107776608dd18c21d443c6be061a0435794df1307b6c",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-07B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-12B",
+      "sourceShotIds": [
+        "C2-12B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-12B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-12B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-13B",
+      "sourceShotIds": [
+        "C2-13B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-13B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "role": "柒柒校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "assets/props/guitar.png",
+          "role": "红色电吉他结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "guitar",
+          "status": "ready",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+          "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-13B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-15B",
+      "sourceShotIds": [
+        "C2-15B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-15B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+          "role": "十元校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "shiyuan",
+          "status": "ready",
+          "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "assets/props/violin.png",
+          "role": "小提琴结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "violin",
+          "status": "ready",
+          "sha256": "d87c29bd3fbc45d8e2c2b0ff4fa76fb27e0004b2ccef5be3ab8111f2dadee083",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/violin-bow.png",
+          "role": "完整小提琴琴弓结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-violin-bow",
+          "status": "ready",
+          "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+          "order": 5
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/shiyuan-violin-bow.png",
+          "role": "十元手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "shiyuan",
+          "status": "ready",
+          "sha256": "996461ba2e94d0bbc297c9560dbb18eb95b0a0548f4c8399a654f35f306489f8",
+          "order": 6
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-15B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-19B",
+      "sourceShotIds": [
+        "C2-19B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-19B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+          "role": "柒柒校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+          "role": "音乐教室排练区空间锚点与光线",
+          "kind": "scene",
+          "entityId": "music-room-v2",
+          "status": "ready",
+          "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+          "order": 3
+        },
+        {
+          "path": "assets/props/guitar.png",
+          "role": "红色电吉他结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "guitar",
+          "status": "ready",
+          "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+          "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "qiqi",
+          "status": "ready",
+          "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-19B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-24B",
+      "sourceShotIds": [
+        "C2-24B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-24B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+          "role": "TIM校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "tim",
+          "status": "ready",
+          "sha256": "66c755c84de660dd81332b2e46a93ed666e39e400167ff192c59a5bcb4dd1ec0",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+          "role": "十元校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "shiyuan",
+          "status": "ready",
+          "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+          "role": "雨后校园外廊空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-rain-v2",
+          "status": "ready",
+          "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9",
+          "order": 4
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-24B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted"
+      ]
+    },
+    {
+      "batchId": "C2-V-28B",
+      "sourceShotIds": [
+        "C2-28B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-28B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-28B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-32B",
+      "sourceShotIds": [
+        "C2-32B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-32B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-32B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    },
+    {
+      "batchId": "C2-V-34B",
+      "sourceShotIds": [
+        "C2-34B"
+      ],
+      "status": "prepared_not_submitted",
+      "optional": true,
+      "plannedDurationSec": 6,
+      "durationPolicy": "verify_current_UI_option",
+      "references": [
+        {
+          "path": "redesign/campus-mv-v2/storyboards/C2-34B.png",
+          "role": "本镜独立分镜图，锁定构图与首帧动作",
+          "kind": "storyboard",
+          "entityId": null,
+          "status": "planned",
+          "sha256": null,
+          "order": 1
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "垃垃校服正侧背三视图；同一人三个角度",
+          "kind": "character",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+          "order": 2
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+          "role": "校园音乐节小舞台空间锚点与光线",
+          "kind": "scene",
+          "entityId": "campus-stage-v2",
+          "status": "ready",
+          "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+          "order": 3
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+          "role": "黑色无线麦克风结构、颜色与尺度",
+          "kind": "prop",
+          "entityId": "prop-black-wireless-mic",
+          "status": "ready",
+          "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+          "order": 4
+        },
+        {
+          "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+          "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+          "kind": "performance-contact",
+          "entityId": "lala",
+          "status": "ready",
+          "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+          "order": 5
+        }
+      ],
+      "promptPath": "redesign/campus-mv-v2/prompts/video/C2-34B.txt",
+      "model": "unverified_until_actual_UI",
+      "taskId": null,
+      "receipt": null,
+      "generationGate": [
+        "全部planned参考完成并通过实际审图",
+        "上传本镜分镜和各角色对应服装三视图，核实实际顺序与界面上限",
+        "记录当次入口/时长/模型/额度，未出现真实任务前不得记submitted",
+        "清晰嘴部镜头先用对应原歌曲段做音频驱动/口型小样；失败则用侧面中远景覆盖，不宣称对嘴完成"
+      ]
+    }
+  ]
+}

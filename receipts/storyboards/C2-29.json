@@ -1,0 +1,49 @@
+{
+  "id": "C2-29",
+  "shotId": "C2-29",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-29.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-b03e92d4-a227-4625-91d9-8ae8dc4c1d47.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-b03e92d4-a227-4625-91d9-8ae8dc4c1d47.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-29.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+      "role": "朱老师教师装正侧背三视图；同一人三个角度",
+      "kind": "character",
+      "entityId": "zhu",
+      "status": "ready",
+      "sha256": "7c930dcddacc90357f35bc07bd35ce78190632950ca0354f1a7116416e5aa38e",
+      "order": 1,
+      "referenceState": "ready",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+      "role": "校园音乐节小舞台空间锚点与光线",
+      "kind": "scene",
+      "entityId": "campus-stage-v2",
+      "status": "ready",
+      "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+      "order": 2,
+      "referenceState": "ready",
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-stage.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看图：朱老师单人教师装，无领带，腰部中景双手胸前准备拍掌；脸、矩形眼镜、挽袖和黑皮带一致，手不穿模。舞台蓝棚白幕与校园夕光相容，无额外演员、文字或猫头角标。",
+    "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "fb75e1539d2356e54e07f84b9b414c19fd1f9d8a795edbbd6e0c6f1d1fbb9a22",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:55:07.349339+00:00",
+  "status": "ready"
+}

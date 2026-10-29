@@ -1,0 +1,197 @@
+{
+  "schema": "hakimi-independent-assets-review-v1",
+  "reviewerAgentId": "/root/mv_review",
+  "createdAt": "2026-10-29T15:07:14.131871+00:00",
+  "status": "passed_visual_review",
+  "scope": "本批锁定六位人物三视图与两件道具，共8项；审查实际图片，不生成媒体，不审视频。",
+  "coverage": {
+    "generatedAssetsViewed": 8,
+    "sourceImagesViewed": 14,
+    "totalActualImagesViewed": 22,
+    "excluded": [
+      "十元生成图按本批指令暂不审查",
+      "启动后陆续新增的其他ready资产不并入本批"
+    ]
+  },
+  "assets": [
+    {
+      "assetId": "campus-lala-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+      "receiptSha256": "acedadb6a53d7026e261197267262b6a669fe2c6a0aed5ac34f4d65d74cf3e07",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/identity.png",
+          "sha256": "36f5943b4c8655fa3b7de6b813d9fa8ccf85c7642ebdd4cd9cb2cad9a826a1af",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/lala/modern.png",
+          "sha256": "52a43a5242927f7ad0d89d48842055ed98046f6e9c722719a46bc733125b63c6",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一垃垃三视图；长棕卷发、额前刘海、白蝴蝶结与脸型延续源图，正侧背完整。白衬衫挽袖、酒红细白斜纹领带、深蓝及膝百褶裙、白袜白鞋三视角一致；自然空手，无乐器或文字。"
+    },
+    {
+      "assetId": "campus-jerry-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/jerry/campus-three-view.png",
+      "sha256": "054178fa08e165934143af45c33c15149ddc52208eec6e2480b06b761d1c5624",
+      "receiptSha256": "43be2b1fa115c78c1ff0acc34b0e6d1801d1c55c9c9635aacd4ac325fccdd77b",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/identity.webp",
+          "sha256": "026daa104a8802c382e5a42028d07dc60e814f913e77bdd5f50c1974c1b647f1",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/jerry/modern.png",
+          "sha256": "83d9cdeaa7227fef2648c2c271e2028f6a2b25714193b013fed151cfa7fa9ff3",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一Jerry正侧背三视图；短乱黑发、矩形黑框镜和脸型保持，白短袖衬衫、领带、深蓝长裤和白鞋一致，头脚完整。无旧黑衬衫、吉他、表或额外人物。"
+    },
+    {
+      "assetId": "campus-tim-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+      "sha256": "66c755c84de660dd81332b2e46a93ed666e39e400167ff192c59a5bcb4dd1ec0",
+      "receiptSha256": "33d73de1847486569aff8250408ba6b5b880de7d00a5c5dc2727077e9051f243",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/identity.webp",
+          "sha256": "f83185d83d16a10ec44c264b7647a4d735ac2608930a762c73cfb9f7c25ca3d9",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/tim/modern.png",
+          "sha256": "a11742bd5a38f20bb94596b92ef52d290aecb9a0ea443e4a5b4be859f8fda756",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一TIM正侧背完整；侧分蓬松短发、细边矩形眼镜、利落下颌与源图相符。挽袖、领带和深蓝长裤三面一致；无旧西装或乐器。"
+    },
+    {
+      "assetId": "campus-yeshiyang-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/yeshiyang/campus-three-view.png",
+      "sha256": "821d43baa2b0c4c86c652c7082f77345cefe422157a446e15d2cb64393fedace",
+      "receiptSha256": "b0a8ed8d200eeb039411488553d426397d75c4b3d6669418353e642b6ffac061",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/identity.webp",
+          "sha256": "1dbb20c46209c338435e08714bba5ae66ea37d610c4caf2f4e5cc741d9383fa7",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/yeshiyang/modern.png",
+          "sha256": "1121c4d8259e3e4200d705080d4292bab5fb2746f636071ad2fd411df31eb22e",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一叶思阳正侧背完整；微卷短黑发、矩形黑框镜和偏瘦脸形保留。白衬衫挽袖、酒红条纹领带、深蓝长裤、白鞋一致；无旧长大衣或新增持物。"
+    },
+    {
+      "assetId": "campus-qiqi-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+      "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+      "receiptSha256": "e8d63a50b657e5a0f43b225779399769ccae4864da9ec65dec0ef589c7d2866e",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/identity.webp",
+          "sha256": "3761787d43759b78dac504010c12feb25e417980acf488cd2bee7ebe761e9002",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/qiqi/modern.png",
+          "sha256": "fb22552a14a03aac33270e23605b8a3b9b353786e7fd666f5d13ad17a020ab3a",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一柒柒正侧背完整；成熟脸型、深色盘髻、花簪及垂饰和脸侧细发延续源图。短袖白衬衫、领带、及膝百褶裙与白袜白鞋一致；无旗袍、吉他或额外蝴蝶结。"
+    },
+    {
+      "assetId": "campus-dijie-three-view",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/dijie/campus-three-view.png",
+      "sha256": "afce3f10a9372719ce10e5514cee2523372e69461dfea84db2c44494ef63bb97",
+      "receiptSha256": "ac4b092a0cebc393a3dc78d2f1ebf04f8be3965e9a200194885c14ca22779492",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "actuallyViewed": true
+        },
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+          "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "同一笛杰正侧背完整；无眼镜、蓬松稍长黑发、刘海与脸型相符。白衬衫挽袖、领带、深蓝长裤和白鞋一致；无格子外衫或持笛残留。"
+    },
+    {
+      "assetId": "prop-black-wireless-mic",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+      "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+      "receiptSha256": "cf4ad52af55037521af20aac8fe29d94822d1685ffbf7cb489986e52df6c4e6f",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [],
+      "observations": "单支完整黑色无线手麦；圆头网罩、细银灰环、黑握柄及封闭底端均可辨，透视结构连贯。无手、脸、线缆、麦架、商标或额外麦克风。独立道具图无法验证实际持麦接触和人物尺度。"
+    },
+    {
+      "assetId": "prop-dijie-bamboo-flute",
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+      "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+      "receiptSha256": "10be5ab231f2d765a879ac4bdc5112e2585e6f888dab5d6709f8e5b6b0e61818",
+      "status": "passed_visual_review",
+      "actualViewMethod": "view_image of full image; source identity and modern reference separately viewed where applicable",
+      "sourceImages": [
+        {
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/identity.webp",
+          "sha256": "eb3ba67ae144fd5ffd74067f04aa7221062b7c7d0a613d11f1b0a6cbf12e3fb3",
+          "actuallyViewed": true
+        }
+      ],
+      "observations": "单支完整黄褐横吹竹笛；与笛杰身份图手中竹笛材质、深棕绑线及暗端套相符，不是盒中银色按键长笛。图上可辨右侧吹孔、其左膜孔及左侧六个指孔；无金属按键、手、人、笛盒或重复笛。图像外观通过，不构成声学调音或真人可演奏性认证。"
+    }
+  ],
+  "findings": [],
+  "openMustFixCount": 0,
+  "descriptionCorrection": {
+    "character": "十元",
+    "evidence": [
+      {
+        "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/identity.webp",
+        "sha256": "e73d6c9295c75e22447d21698632c42dbd77eb57b734023eb2486b71ef7a1184"
+      },
+      {
+        "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+        "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29"
+      }
+    ],
+    "observation": "实际查看两张源图，发夹清楚为金色五角星。",
+    "changes": [
+      "wardrobe-assets.json：十元identityAnchors及对应asset.imagePrompt各一处小花发夹→金色五角星发夹",
+      "wardrobe.md：十元表格及对应提示词各一处相同替换"
+    ],
+    "boundary": "仅描述文字替换，未改生成状态或其他字段。"
+  },
+  "limitations": [
+    "静态图片视觉审查不等于视频连续性、手持接触姿势、嘴型或节奏验收。",
+    "仅核准本批绑定SHA的图片；后续图片变化需增量复核。",
+    "实际生成模型未由工具回执证实，保留executedModel=unverified。",
+    "未对竹笛做物理制造/声学验证；后续演奏参考仍须检查嘴与吹孔、左右手覆盖和持笛方向。"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "assetId": "scene-campus-corridor",
+  "path": "redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-dbe54b01-bb29-4881-89c5-cd4181f070a7.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:07:02.087433+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/scene-campus-corridor.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/campus.png",
+      "sha256": "4019c52c006cd4626af63f07e44b61ef2dbeaff929e7628665502a1d68b4cda5",
+      "role": "campus-building-style",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：明亮现代教学楼长廊，左连续矩形窗、右三扇蓝灰教室门、尽头开放平台金属栏杆和远处红跑道三个拓扑锚点明确；灰白水磨石地面宽敞无障碍，左侧暖日光方向一致；无人、无文字、无古堡建筑或占位轮廓。",
+    "limitations": "实际查看生成空景与已输入来源对照；执行型号未暴露。"
+  }
+}

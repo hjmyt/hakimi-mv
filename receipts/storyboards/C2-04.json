@@ -1,0 +1,65 @@
+{
+  "id": "C2-04",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-04.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18311-da60-7b60-9b89-4db304e8fb11/exec-8f6bd5f8-ef40-4482-a9b3-bc1f88c46a03.png",
+  "outputHint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18311-da60-7b60-9b89-4db304e8fb11 as /Users/hxj/.codex/generated_images/01a18311-da60-7b60-9b89-4db304e8fb11/exec-8f6bd5f8-ef40-4482-a9b3-bc1f88c46a03.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-04.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "role": "垃垃校服正侧背三视图；同一人三个角度",
+      "kind": "character",
+      "entityId": "lala",
+      "status": "ready",
+      "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+      "order": 1,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+      "role": "音乐教室排练区空间锚点与光线",
+      "kind": "scene",
+      "entityId": "music-room-v2",
+      "status": "ready",
+      "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+      "order": 2,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-music-room.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+      "role": "黑色无线麦克风结构、颜色与尺度",
+      "kind": "prop",
+      "entityId": "prop-black-wireless-mic",
+      "status": "ready",
+      "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+      "order": 3,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/black-wireless-mic.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+      "role": "垃垃手与乐器/麦的接触关系，不替代本镜构图",
+      "kind": "performance-contact",
+      "entityId": "lala",
+      "status": "ready",
+      "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+      "order": 4,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root",
+    "status": "passed",
+    "observations": "实看C2-04：单人腰部中景，左窗/后方单台黑色立式琴和琴凳一致，校服白蝴蝶结身份正确。右手黑麦、左手腰侧，嘴不被遮；光线明亮无旁人文字。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "a62af6834bdb571d7bb4e7bc6825862e342fe9a2dea982bff11bfb61f54454a1",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:23:20.530960+00:00",
+  "status": "ready"
+}

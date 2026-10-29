@@ -1,0 +1,53 @@
+{
+  "id": "C2-17",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-17.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18794-2f3b-7141-bd7c-a63b4e5be832/exec-f94e7b6f-9cc2-4a47-9f0c-ed3093188cdb.png",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-17.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/cat-bow/identity.webp",
+      "role": "cat-bow identity",
+      "order": 1,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/cat-bow/identity.webp",
+      "sha256": "d7e5e58902c5add72acb350c685ac7f19202996349431ce2dea13eba3df047b1"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/cat-white/identity.webp",
+      "role": "cat-white identity",
+      "order": 2,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/cat-white/identity.webp",
+      "sha256": "14317355f9872098fbb2322cfc133390e93b66e3692f8106f9e0865730c3caef"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/cat-singer/identity.webp",
+      "role": "cat-singer identity",
+      "order": 3,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/cat-singer/identity.webp",
+      "sha256": "d7a5d0edc318e5ea77e1cfbac06dfd6bd75da171e5024e49a007d54e167d85b8"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/shop.png",
+      "role": "record-shop space",
+      "order": 4,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/shop.png",
+      "sha256": "5a2f9217aa810e5330125e71ba76a7aad4dd642d1236356a70d5abb2a06719c2"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_review",
+    "status": "passed",
+    "observations": "实际看生成图：左橘虎斑蝴蝶结、中白猫、右灰猫耳机蓝领带小麦，恰好三猫，脸/爪/尾均完整独立；店内低机位地毯、暖灯与左侧蓝窗。无人物、文字、音符图标或可见角标。白猫沿用源图伏卧姿态。",
+    "limitations": "制作方自检，待根独立看图；静态图不是视频。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "c647d30809b2b07f3a419ba3235d65743bc22ea7092d3a25298531234c25b3c6",
+  "nativeDimensions": [
+    1672,
+    940
+  ],
+  "createdAt": "2026-10-29T15:55:32.098746+00:00",
+  "status": "ready"
+}

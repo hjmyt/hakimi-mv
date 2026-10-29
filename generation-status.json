@@ -1,0 +1,12 @@
+{
+  "state": "paused_by_user",
+  "assetsReady": 29,
+  "storyboardsReady": 19,
+  "assetsTotal": 29,
+  "storyboardsTotal": 51,
+  "updatedAt": "2026-10-29T16:20:28.745658+00:00",
+  "entry": "built-in image_gen only",
+  "executedModel": "unverified",
+  "scope": "all approved assets plus 40 main and 11 coverage images; no Doubao submission",
+  "pausedByUser": true
+}

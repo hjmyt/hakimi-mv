@@ -1,0 +1,33 @@
+{
+  "assetId": "campus-xiaozhou-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-e8ca4e9b-a104-44cf-8f1e-ed4170b856e2.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c as /Users/hxj/.codex/generated_images/01a18803-fbf4-7eb3-8931-becb85da275c/exec-e8ca4e9b-a104-44cf-8f1e-ed4170b856e2.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "ab7867717f9ae7cff7576847af1be2a57b7a085574d99c2362d0fbb081f674ce",
+  "nativeDimensions": [
+    1312,
+    1199
+  ],
+  "createdAt": "2026-10-29T15:16:30.486446+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-xiaozhou-three-view.txt",
+  "finalPrompt": "制作同一角色的校服生产三视图参考，不是剧情画面。参考图1是小周的正式身份根，所有参考中的原服装、乐器、背景、标题文字均不沿用。锁定黑色卷短发、柔和细长脸、无眼镜、成年男性年龄感，保持原年龄感、肤色和体型。新服装严格为：白色纯棉翻领衬衫扎入下装；酒红底细白斜条窄领带，领结长度与系法三个视角完全一致；白色短袜与无标识白色低帮帆布鞋；无校徽文字、无外套、无背包。深海军蓝直筒长裤，裤长到鞋面，不卷裤脚。固定长袖，两边袖口各挽两折至肘下，所有镜头保持相同折高。左为正面、中为严格右侧面、右为背面，横向一排且恰好三视图；三个视角是同一个人，同一身服装，同一比例，中性站姿，双手自然垂放，平视，全身头顶到鞋底完整，彼此不遮挡。浅暖灰纯背景，中性均匀平光，细腻清爽的日系半写实动画人物质感，遵循参考身份而非套通用脸。保持眼镜侧腿、鼻梁、发长和发饰真实位置；不可见鞋形及服装背缝按此新服装设计合理补全。不持乐器、麦克风或相机；不加第二个身份、不加另一个衣服版本、不加文字、号码、水印、分栏线、古堡元素或魔法道具。",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/assets/xiaozhou-portrait.webp",
+      "sha256": "b70cabeae5a0391efbd6033430b56b87d9a47c552fc84e7a63376825e5e40600",
+      "role": "identity",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_shot_design",
+    "status": "passed",
+    "observations": "实际看图：小周同一人正/严格侧/背三视图，黑卷短发、柔和细长脸、完全无眼镜。白衬衫固定挽袖、酒红细斜条领带、深蓝直筒长裤、白低帮鞋一致；未带源浅蓝衬衫或钢琴，无文字，头鞋完整，手自然。",
+    "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+  }
+}

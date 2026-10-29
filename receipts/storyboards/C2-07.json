@@ -1,0 +1,66 @@
+{
+  "id": "C2-07",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-07.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-5a9f5355-06a0-4ecb-8b34-76a9ec636f5b.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83 as /Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-5a9f5355-06a0-4ecb-8b34-76a9ec636f5b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-07.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png",
+      "role": "笛杰现代装正侧背三视图；同一人三个角度",
+      "kind": "character",
+      "entityId": "dijie",
+      "status": "ready",
+      "sha256": "a29ae4fff294101c79ef43f76a1296dbaa69accec1f8eb422c1dc86c6f03365d",
+      "order": 1,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/dijie/modern.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/beach.png",
+      "role": "夕阳海边空间锚点与光线",
+      "kind": "scene",
+      "entityId": "beach",
+      "status": "ready",
+      "sha256": "0a0d2f42b55863cf5bdc506e453ad378578c915bf2920ec4c21f0e26c6800531",
+      "order": 2,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/beach.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+      "role": "笛杰黄褐色横吹竹笛结构、颜色与尺度",
+      "kind": "prop",
+      "entityId": "prop-dijie-bamboo-flute",
+      "status": "ready",
+      "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+      "order": 3,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/dijie-bamboo-flute.png",
+      "role": "笛杰手与乐器/麦的接触关系，不替代本镜构图",
+      "kind": "performance-contact",
+      "entityId": "dijie",
+      "status": "ready",
+      "sha256": "c160d9dd44544c025544107776608dd18c21d443c6be061a0435794df1307b6c",
+      "order": 4,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/dijie-bamboo-flute.png"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：笛杰单人海边半身吹笛，凌乱黑发与原现代棕灰格衬衫、白内衫保留。黄褐竹笛完整横向延伸，深色绑线与指孔可辨，左手靠吹孔、右手靠尾端，吹孔接近下唇而非笛头插嘴。双手、脸、整根笛身均清楚；背景只有夕阳海面天空，无其他角色。",
+    "limitations": "少量飘起发梢贴近顶部边界；半身静帧，未生成或验证吹奏运动。"
+  },
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "c85e2370298f1e058f6919f9e1a4736d6acb35be096c85b4ad9fd2c4358e6a4a",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:47:17.301704+00:00",
+  "status": "ready"
+}

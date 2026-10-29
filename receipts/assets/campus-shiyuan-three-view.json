@@ -1,0 +1,94 @@
+{
+  "assetId": "campus-shiyuan-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-814d1989-9be8-4db4-b7af-89a7a7c5b2cd.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T15:01:51.211318+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-shiyuan-three-view-fix1.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-4efc0f32-4301-4907-971c-cb9447e0ffb0.png",
+      "sha256": "ff8491aff5569d040ab14ba75bd6e6a6a85b20e2d725a94c775b660c84250a60",
+      "role": "edit-target-initial-campus-three-view",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+      "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29",
+      "role": "original-back-hair-and-identity-only",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：十元棕色短波波头、原图金色五角星发夹与成年脸型保持，正侧背同一校服；白短袖、酒红细条领带、深蓝百褶裙与白袜白鞋一致，头脚完整。初版背面多余显眼星夹经一次局部修正，背面现为自然发丝；无原针织外衫、小提琴或文字。",
+    "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+  },
+  "generationHistory": [
+    {
+      "attempt": 1,
+      "status": "superseded",
+      "reason": "背面额外露出显眼星夹，与正侧位置不相容。",
+      "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-4efc0f32-4301-4907-971c-cb9447e0ffb0.png",
+      "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-shiyuan-three-view.txt",
+      "references": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/identity.webp",
+          "sha256": "e73d6c9295c75e22447d21698632c42dbd77eb57b734023eb2486b71ef7a1184",
+          "role": "identity",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+          "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29",
+          "role": "secondary-face-hair-side-back-only",
+          "referenceState": "existing"
+        },
+        {
+          "order": 3,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+          "role": "uniform-palette-material-and-render-style-only-not-identity",
+          "referenceState": "existing",
+          "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab"
+        }
+      ],
+      "sha256": "ff8491aff5569d040ab14ba75bd6e6a6a85b20e2d725a94c775b660c84250a60"
+    },
+    {
+      "attempt": 2,
+      "status": "ready",
+      "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-shiyuan-three-view-fix1.txt",
+      "references": [
+        {
+          "order": 1,
+          "path": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-4efc0f32-4301-4907-971c-cb9447e0ffb0.png",
+          "sha256": "ff8491aff5569d040ab14ba75bd6e6a6a85b20e2d725a94c775b660c84250a60",
+          "role": "edit-target-initial-campus-three-view",
+          "referenceState": "existing"
+        },
+        {
+          "order": 2,
+          "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/shiyuan/modern.png",
+          "sha256": "366f020b57fd13549a4026153bdde136ee8b99f2e020dcb67934f1958ef35c29",
+          "role": "original-back-hair-and-identity-only",
+          "referenceState": "existing"
+        }
+      ],
+      "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-814d1989-9be8-4db4-b7af-89a7a7c5b2cd.png",
+      "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539"
+    }
+  ]
+}

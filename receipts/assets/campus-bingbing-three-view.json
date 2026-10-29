@@ -1,0 +1,45 @@
+{
+  "assetId": "campus-bingbing-three-view",
+  "path": "redesign/campus-mv-v2/assets/characters/bingbing/campus-three-view.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-946383fe-bda7-444c-96df-58c8432ac853.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "be10c3615dacf686abb47072036186f535c0913fc5add151b202e297df124ba7",
+  "nativeDimensions": [
+    1536,
+    1024
+  ],
+  "createdAt": "2026-10-29T15:03:26.765652+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/campus-bingbing-three-view.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/identity.webp",
+      "sha256": "62dd594e432d930da568f05802ecae09a4d4dfffbf4b265a5e0410d5939bb09c",
+      "role": "identity",
+      "referenceState": "existing"
+    },
+    {
+      "order": 2,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/characters/bingbing/modern.png",
+      "sha256": "eedfc47b01e7e3bd02731ecc6b5fb52cf79ab17262d66eed1d48b231ae4543fe",
+      "role": "secondary-face-hair-side-back-only",
+      "referenceState": "existing"
+    },
+    {
+      "order": 3,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+      "role": "uniform-palette-material-and-render-style-only-not-identity",
+      "referenceState": "existing",
+      "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：冰冰侧分长黑发、白花发饰、长耳饰和成年女性脸型保持；正侧背发花物理位置相容，头发后侧完整。白衬衫挽袖、酒红细白条领带、深蓝及膝百褶裙、白袜白鞋一致，头脚完整，无挂脖白长裙、大提琴、第二人物或文字。",
+    "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "campus-jerry-three-view": {
+    "status": "passed",
+    "sha256": "054178fa08e165934143af45c33c15149ddc52208eec6e2480b06b761d1c5624",
+    "path": "redesign/campus-mv-v2/assets/characters/jerry/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：同一成年Jerry正面、严格侧面、背面单排三视图；短乱黑发和矩形黑框眼镜保持，白短袖衬衫、酒红细白斜条领带、深海军蓝长裤、白鞋三视角一致，双手自然下垂，头脚完整，无原黑衬衫/牛仔裤、乐器或文字。",
+      "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+    }
+  },
+  "campus-lala-three-view": {
+    "status": "passed",
+    "sha256": "fda0cf464741ff853e0b6ddec173abd79d50874964b547b14f0924136db332ab",
+    "path": "redesign/campus-mv-v2/assets/characters/lala/campus-three-view.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实际看图：单排正/严格侧/背同一成年垃垃；长棕卷发与大白蝴蝶结保持，白衬衫挽袖、酒红条纹领带、深蓝百褶裙、白袜白鞋一致；头脚完整，无乐器文字。",
+      "limitations": "执行型号工具未暴露。"
+    }
+  },
+  "campus-tim-three-view": {
+    "status": "passed",
+    "sha256": "66c755c84de660dd81332b2e46a93ed666e39e400167ff192c59a5bcb4dd1ec0",
+    "path": "redesign/campus-mv-v2/assets/characters/tim/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：同一成年TIM正/严格侧/背三视图，侧分蓬松短发、细边矩形眼镜与利落下颌保持。白衬衫挽袖高度一致，酒红细白条领带、深蓝长裤和白鞋清晰；头脚完整，无黑西装或乐器，无文字。",
+      "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+    }
+  },
+  "campus-yeshiyang-three-view": {
+    "status": "passed",
+    "sha256": "821d43baa2b0c4c86c652c7082f77345cefe422157a446e15d2cb64393fedace",
+    "path": "redesign/campus-mv-v2/assets/characters/yeshiyang/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：叶思阳新版微卷蓬松短黑发、矩形黑框镜、偏瘦成年脸保持；正面/严格侧面/背面三视图完整，同一白衬衫挽袖、酒红条纹领带、深蓝裤与白鞋；侧后发型相容，无旧长黑外套、乐器或文字。",
+      "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+    }
+  },
+  "campus-qiqi-three-view": {
+    "status": "passed",
+    "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+    "path": "redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：柒柒成熟脸型、深发盘髻、细发与小花簪保持，背面发髻结构清楚；正/严格侧/背三视图同一白短袖、酒红细白条领带、深蓝及膝百褶裙、白袜白鞋，头脚完整，无原旗袍、吉他或垃垃蝴蝶结，无文字。",
+      "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+    }
+  },
+  "campus-dijie-three-view": {
+    "status": "passed",
+    "sha256": "afce3f10a9372719ce10e5514cee2523372e69461dfea84db2c44494ef63bb97",
+    "path": "redesign/campus-mv-v2/assets/characters/dijie/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：笛杰成年无眼镜脸、蓬松略长黑发与自然刘海保持，正/严格侧/背完整；白衬衫挽袖、酒红细白条领带、深蓝长裤白鞋一致。无旧格子外衫，无竹笛或其他持物，无文字。",
+      "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+    }
+  },
+  "campus-shiyuan-three-view": {
+    "status": "passed",
+    "sha256": "d7490f21bb6a89a39ad59b52c49a5b48f713f63daed20866f5ae995c05fa1539",
+    "path": "redesign/campus-mv-v2/assets/characters/shiyuan/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：十元棕色短波波头、原图金色五角星发夹与成年脸型保持，正侧背同一校服；白短袖、酒红细条领带、深蓝百褶裙与白袜白鞋一致，头脚完整。初版背面多余显眼星夹经一次局部修正，背面现为自然发丝；无原针织外衫、小提琴或文字。",
+      "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+    }
+  },
+  "campus-bingbing-three-view": {
+    "status": "passed",
+    "sha256": "be10c3615dacf686abb47072036186f535c0913fc5add151b202e297df124ba7",
+    "path": "redesign/campus-mv-v2/assets/characters/bingbing/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：冰冰侧分长黑发、白花发饰、长耳饰和成年女性脸型保持；正侧背发花物理位置相容，头发后侧完整。白衬衫挽袖、酒红细白条领带、深蓝及膝百褶裙、白袜白鞋一致，头脚完整，无挂脖白长裙、大提琴、第二人物或文字。",
+      "limitations": "实际看过生成图并与已查看身份根/modern参考比较；执行型号工具未暴露。"
+    }
+  },
+  "campus-baoshi-three-view": {
+    "status": "passed",
+    "sha256": "c32367040bc2bd2cbaa2f9d5ed15b26581870e3f2beeed247f00c39419a535ed",
+    "path": "redesign/campus-mv-v2/assets/characters/baoshi/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：同一成年宝石正面、严格右侧、背面三视图，蓬松略长黑发与柔和脸型一致，无眼镜；白短袖衬衫、酒红细斜条领带、深海军蓝直筒长裤、白鞋三视角一致。头鞋完整、双手自然，无原黑外套、麦克风、文字或多余人物。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "campus-feihong-three-view": {
+    "status": "passed",
+    "sha256": "e2eda58dffa2861ae651ca43779a46f62c17f73858b94d62aa3e3beb65125296",
+    "path": "redesign/campus-mv-v2/assets/characters/feihong/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：同一成年飞鸿正/严格右侧/背三视图；短乱黑发、深色矩形眼镜、清瘦脸型保持。白长袖挽至肘下，酒红细斜条领带、深蓝直筒裤、白帆布鞋一致；去除旧黑手套与外露银链，手自然，头脚完整，无文字。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "campus-tang-three-view": {
+    "status": "passed",
+    "sha256": "02a563427d10584ba5e920e212175defd2470965820c2588188baac5faf88cc3",
+    "path": "redesign/campus-mv-v2/assets/characters/tang/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：汤少一排正面、严格侧面、背面，短黑发向上梳、矩形黑框眼镜和稳重脸型保持；白短袖/酒红细斜条领带/深蓝长裤/白鞋一致。未带原摄影外套、背包或相机；全身完整，无文字。画布为竖幅但三视图横向一排，未拉伸。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "teacher-zhu-three-view": {
+    "status": "passed",
+    "sha256": "7c930dcddacc90357f35bc07bd35ce78190632950ca0354f1a7116416e5aa38e",
+    "path": "redesign/campus-mv-v2/assets/characters/zhu/teacher-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：朱老师正/严格侧/背三视图完整；微蓬短黑发、深矩形镜和原成年脸型保持。白翻领衬衫挽袖、深海军蓝长裤、黑皮带、黑低帮鞋一致，明确无学生领带、无校徽、无原西装或指挥棒。手自然，头鞋完整。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "campus-kongge-three-view": {
+    "status": "passed",
+    "sha256": "87342cc5cb7e308f086f52643c8d72d54a93c84967d6e3ccd984ad7dc69504ce",
+    "path": "redesign/campus-mv-v2/assets/characters/kongge/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：空格同一人正/严格侧/背一排，壮实肩胸体型、圆脸、短蓬黑发、粗矩形黑框镜保持；白短袖/酒红细斜条领带/深蓝直筒裤/白鞋统一，双腕均无手表。未带源图小提琴或琴弓，无文字，头脚完整。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "campus-ria-three-view": {
+    "status": "passed",
+    "sha256": "45063bc2a4423ae8e010024b1496a87b693bdfbd034b87bfc9ec1d166dfac53f",
+    "path": "redesign/campus-mv-v2/assets/characters/ria/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：同一成年RIA正面站姿、严格侧面、背面，长深棕侧分波浪发、珍珠垂耳饰和无眼镜保持，脸型可辨识。白衬衫挽袖、酒红细白斜条领带、深蓝膝部百褶裙、白袜白鞋一致。头鞋完整，未带源图黑高领/黑长裙/小提琴。正面头部轻微倾斜但脸正向可用。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "campus-azhe-three-view": {
+    "status": "passed",
+    "sha256": "35c3a24c6bec79dc2c12d621e5f40d7b3c55c19dbe18401e31ee5bcf3f2ac2af",
+    "path": "redesign/campus-mv-v2/assets/characters/azhe/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：阿喆同一人的正面/严格侧/背三视图，棕色蓬松微卷发、纤细体态、细圆金属眼镜保持，未变粗黑框。白长袖挽至肘下、酒红细斜条领带、深海军蓝直筒裤、白鞋三视角一致。无旧演出服、乐器或文字，头鞋完整，手部自然。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "campus-xiaozhou-three-view": {
+    "status": "passed",
+    "sha256": "ab7867717f9ae7cff7576847af1be2a57b7a085574d99c2362d0fbb081f674ce",
+    "path": "redesign/campus-mv-v2/assets/characters/xiaozhou/campus-three-view.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：小周同一人正/严格侧/背三视图，黑卷短发、柔和细长脸、完全无眼镜。白衬衫固定挽袖、酒红细斜条领带、深蓝直筒长裤、白低帮鞋一致；未带源浅蓝衬衫或钢琴，无文字，头鞋完整，手自然。",
+      "limitations": "实际检查生成回显图；型号未暴露。该板仅作同一人的三视图参考，不是剧情帧。"
+    }
+  },
+  "prop-black-wireless-mic": {
+    "status": "passed",
+    "sha256": "b4d956516f344baaddbe27526eeeed3b4a2b57ab8e48579e486e3d60651f286a",
+    "path": "redesign/campus-mv-v2/assets/props/black-wireless-mic.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实际看图：一支完整黑色无线麦，圆头金属网罩、窄银灰环与封闭底端明确；无手脸、文字、线缆或麦架，头尾完整。"
+    }
+  },
+  "prop-dijie-bamboo-flute": {
+    "status": "passed",
+    "sha256": "53a7be1c50dbdb06c3678a8a0dbd763cad2b566ae9250b5fcccf3d4d34013a2b",
+    "path": "redesign/campus-mv-v2/assets/props/dijie-bamboo-flute.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实际看图：修正后六个指孔、一个膜孔和右端吹孔分开明确；单支完整黄褐竹笛，深棕绑线与深色端套保留，无金属按键和人物。"
+    }
+  },
+  "prop-violin-bow": {
+    "status": "passed",
+    "sha256": "e6bdfc5ef189152bda340132501d1bfce53603f6ee0cd6cb8c41952fa1162787",
+    "path": "redesign/campus-mv-v2/assets/props/violin-bow.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看输出：一支完整小提琴琴弓，深红棕弓杆、浅色绷直弓毛、黑色弓根和银色螺钮清楚，无多余人物或文字。两端完整，弓毛与弓杆区分明确。"
+    }
+  },
+  "scene-campus-corridor": {
+    "status": "passed",
+    "sha256": "ee2d863356b7907e154a46799722f0270b6c9f3350ede90e15c9355e2395462a",
+    "path": "redesign/campus-mv-v2/assets/scenes/campus-corridor.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：明亮现代教学楼长廊，左连续矩形窗、右三扇蓝灰教室门、尽头开放平台金属栏杆和远处红跑道三个拓扑锚点明确；灰白水磨石地面宽敞无障碍，左侧暖日光方向一致；无人、无文字、无古堡建筑或占位轮廓。",
+      "limitations": "实际查看生成空景与已输入来源对照；执行型号未暴露。"
+    }
+  },
+  "scene-campus-music-room": {
+    "status": "passed",
+    "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+    "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：左墙大窗、后绿黑板、右后门保持原教室结构；恰好一台黑色立式钢琴和一张黑琴凳，键盘盖打开，课桌移至右侧，中央宽敞木地板可供表演。明亮左窗日光，无人、无文字、无吉他或琴盒。钢琴黑白键在此广角远景为细节，逐键结构需后续演奏操作近景另检。",
+      "limitations": "实际查看生成空景与已输入来源对照；执行型号未暴露。"
+    }
+  },
+  "scene-campus-stage": {
+    "status": "passed",
+    "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+    "path": "redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：同校园红跑道、右白看台和白教学楼；低木舞台、蓝遮阳顶、暖白无字幕布、左右各1黑音箱，舞台中部空置，无麦架或乐器。左侧小木阶实际呈3级而非提示词2级，这是可接受场景细节，后续按此实图锁定3级，不需重生。暖金夕阳，无人物、海景、城堡或文字。",
+      "limitations": "实际查看生成空景与已输入来源对照；执行型号未暴露。"
+    }
+  },
+  "scene-campus-rain": {
+    "status": "passed",
+    "sha256": "69c7cb8c87e7844a06385715dadcc83ce767ccf669d4523fc7305815fc945fd9",
+    "path": "redesign/campus-mv-v2/assets/scenes/campus-rain.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：实际输入已完成廊道为参考1、旧校园为参考2；左矩形窗、右三扇蓝灰门、尽头栏杆与原图一致。窗外红跑道有雨后薄水反光，天空转明亮蓝白、树叶亮润，廊内地面无积水障碍，左侧正常日光。无人，无城市夜雨或霓虹。",
+      "limitations": "实际查看生成空景与已输入来源对照；执行型号未暴露。"
+    }
+  },
+  "performance-lala-mic": {
+    "status": "passed",
+    "sha256": "f00fc6dd2800f6f743a02865da579ead8723fca0f370ce6c357fa038cc9b51dd",
+    "path": "redesign/campus-mv-v2/assets/performance/lala-right-hand-mic.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看：垃垃一人保持校服、白蝴蝶结和长棕卷发；人物自己的右手从画面左臂抬起握黑色无线麦，左手张开。麦头靠近嘴但不穿唇，嘴可见，完整麦身一支无架无线；无精确对嘴声称。"
+    }
+  },
+  "performance-dijie-flute": {
+    "status": "passed",
+    "sha256": "c160d9dd44544c025544107776608dd18c21d443c6be061a0435794df1307b6c",
+    "path": "redesign/campus-mv-v2/assets/performance/dijie-bamboo-flute.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看：笛杰一人，格子现代外衫、蓬松黑发和无眼镜保持。竹笛向本人右侧/画面左伸出，左手近吹孔、右手靠尾端，吹孔位于下唇边缘，完整笛身无穿脸。手指遮挡部分指孔，本图确认横吹接触结构，不当作逐孔/逐音指法证明。"
+    }
+  },
+  "performance-shiyuan-violin": {
+    "status": "passed",
+    "sha256": "996461ba2e94d0bbc297c9560dbb18eb95b0a0548f4c8399a654f35f306489f8",
+    "path": "redesign/campus-mv-v2/assets/performance/shiyuan-violin-bow.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：只有十元，棕短发金色星夹与白短袖校服一致；小提琴承托左肩和下颌，左手指板、右手弓根，弓毛接触琴桥和指板之间的琴弦，弓尖与弓根均在画内，琴弓/琴颈完整。浅灰背景无文字或旁人。",
+      "limitations": "静态操作姿态检查，不声称音符或歌词同步。"
+    }
+  },
+  "performance-ria-violin": {
+    "status": "passed",
+    "sha256": "a0680efb68430c53dc26fbfc1478765f80ac2f4664f36348416fd2a7f1035cbe",
+    "path": "redesign/campus-mv-v2/assets/performance/ria-violin-bow.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：仅RIA一人，长深棕波浪发、珍珠耳饰与校服一致；小提琴置左肩与下颌，左手托琴颈并按指板，右手在弓根握弓。弓毛与杆分离，接触琴桥和指板间弦区，琴弓完整、无浮空琴或额外手。器乐姿势参考不声明逐音同步。",
+      "limitations": "执行型号未暴露；仅为静态接触结构检查。"
+    }
+  },
+  "performance-xiaozhou-piano": {
+    "status": "passed",
+    "sha256": "fa78f03f7433a17d028e71bd0f0172b20db8eab353ec578d749e2812586ea520",
+    "path": "redesign/campus-mv-v2/assets/performance/xiaozhou-piano-hands.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看修正版：小周黑卷短发、无眼镜、校服、左右手触键和同一立式钢琴保持。近景黑键已从连续密排改为可见2/3组与白键空档，未产生新手指或多余人物。手腕自然，手指分别接触键面，背景锚点保持。",
+      "limitations": "远端键受手与透视遮挡，未逐键测量；双脚在画外未检查。静态接触参考不声明逐音同步。"
+    }
+  },
+  "performance-qiqi-guitar": {
+    "status": "passed",
+    "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+    "path": "redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：只有校服柒柒，盘髻/小花簪保持，红双切角电吉他、白珍珠护板与花纹肩带清楚。肩带过左肩稳定承重，琴颈向本人左侧，左手按琴颈，右手在拾音器上方扫弦位置，琴颈/琴头完整，无多余手或穿琴、麦架和文字。",
+      "limitations": "此为半身演奏操作参考，发髻顶端略到画边；完整发型仍以三视图为准，不声称音符同步。"
+    }
+  },
+  "C2-20": {
+    "status": "passed",
+    "sha256": "8506f09355593a3a6256a8ff6bb7be8e1ddbc2a15bbca3126d6abf2cc2e4a598",
+    "path": "redesign/campus-mv-v2/storyboards/C2-20.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：仅叶思阳，微卷短黑发/黑矩形镜/现代黑衬衫与长黑双排扣外套保持，站直微低眼神，安全候车区内无额外乘客、镜面人影、手机或行李。画面是短对照首帧，后续应迅速抬眼切回校园。",
+      "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+    }
+  },
+  "C2-17": {
+    "status": "passed",
+    "sha256": "c647d30809b2b07f3a419ba3235d65743bc22ea7092d3a25298531234c25b3c6",
+    "path": "redesign/campus-mv-v2/storyboards/C2-17.png",
+    "review": {
+      "reviewer": "/root/mv_review",
+      "status": "passed",
+      "observations": "实际看生成图：左橘虎斑蝴蝶结、中白猫、右灰猫耳机蓝领带小麦，恰好三猫，脸/爪/尾均完整独立；店内低机位地毯、暖灯与左侧蓝窗。无人物、文字、音符图标或可见角标。白猫沿用源图伏卧姿态。",
+      "limitations": "制作方自检，待根独立看图；静态图不是视频。"
+    }
+  },
+  "C2-01": {
+    "status": "passed",
+    "sha256": "df37e0f02b807828ede7090820ada1a35f2a746f5cb47f01dd4fc9aa174fdf0d",
+    "path": "redesign/campus-mv-v2/storyboards/C2-01.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看C2-01：垃垃单人正面演唱近景，校服/长卷发/白蝴蝶结正确；右手握同一黑麦，左手张开，夕阳跑道与右侧空看台清楚，无额外人或文字。麦头未遮嘴，动作已进入演唱，16:9横图。"
+    }
+  },
+  "C2-06": {
+    "status": "passed",
+    "sha256": "72634f3e74e071f50fbb3bc625b6a08a1555e105a025cd4d4be55c90ac6a27bb",
+    "path": "redesign/campus-mv-v2/storyboards/C2-06.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看C2-06：垃垃单人半侧海边胸腰像，原现代荷叶袖白衬衫/黑领结和长发白蝴蝶结保持。本人右手持一支黑麦、左手打开，嘴可见，夕阳海岸与天际线正确，无额外人/魔法元素。"
+    }
+  },
+  "C2-10": {
+    "status": "passed",
+    "sha256": "c351a162c7bb2fc0c6b17c96ea80e4e86f8093e78401a9e58e960d4b5ccb51b5",
+    "path": "redesign/campus-mv-v2/storyboards/C2-10.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看C2-10：校园白幕蓝顶棚，左音箱可见，无鼓组/麦架或旁人；垃垃校服正面腰部中景，右手黑麦和左手打开，嘴可见。画面边角未见源猫头角标，顶部发饰辨识保持。"
+    }
+  },
+  "C2-26": {
+    "status": "passed",
+    "sha256": "8be70f24104fc692f4087bafc22af7d839fb1148e73e812817ddc372eed38cd6",
+    "path": "redesign/campus-mv-v2/storyboards/C2-26.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：Jerry独立全身，短乱黑发矩形镜与短袖校服保持；膝盖轻屈、身体正准备弹起，双手空握松拳、两鞋完整。跑道看台保持，四角无猫头角标/文字，无额外人物。",
+      "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+    }
+  },
+  "C2-11": {
+    "status": "passed",
+    "sha256": "31f4bbf6b0961b23c1c97e97bb64fad64e323a125feb1dcb4867fcbb88308c0a",
+    "path": "redesign/campus-mv-v2/storyboards/C2-11.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：仅朱老师，教师白衬衫/深蓝长裤/黑皮带，明确无领带；右手食中指并拢作起拍，左手扶腰，脸与双手清晰，无教鞭或额外人物。音乐教室窗、黑板、立式钢琴空间相容。",
+      "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+    }
+  },
+  "C2-07": {
+    "status": "passed",
+    "sha256": "c85e2370298f1e058f6919f9e1a4736d6acb35be096c85b4ad9fd2c4358e6a4a",
+    "path": "redesign/campus-mv-v2/storyboards/C2-07.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：笛杰单人海边半身吹笛，凌乱黑发与原现代棕灰格衬衫、白内衫保留。黄褐竹笛完整横向延伸，深色绑线与指孔可辨，左手靠吹孔、右手靠尾端，吹孔接近下唇而非笛头插嘴。双手、脸、整根笛身均清楚；背景只有夕阳海面天空，无其他角色。",
+      "limitations": "少量飘起发梢贴近顶部边界；半身静帧，未生成或验证吹奏运动。"
+    }
+  },
+  "C2-12": {
+    "status": "needs_fix",
+    "sha256": "5e25838e99bd8cfea8a88ad39391c05defa9a7e9df4ae2659b8877cbb0f5fd8b",
+    "path": "redesign/campus-mv-v2/storyboards/C2-12.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "needs_fix",
+      "observations": "已实际看图：低机位、右手持麦与单人身份正确；右上角继承淡猫头角标，裙长也偏短。用户已要求停止生成，保留为待修正图，不记就绪。"
+    }
+  },
+  "C2-04": {
+    "status": "passed",
+    "sha256": "a62af6834bdb571d7bb4e7bc6825862e342fe9a2dea982bff11bfb61f54454a1",
+    "path": "redesign/campus-mv-v2/storyboards/C2-04.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看C2-04：单人腰部中景，左窗/后方单台黑色立式琴和琴凳一致，校服白蝴蝶结身份正确。右手黑麦、左手腰侧，嘴不被遮；光线明亮无旁人文字。"
+    }
+  },
+  "C2-08": {
+    "status": "passed",
+    "sha256": "f22f0920df002b84ca3476b365f4fb780be29160d861776cca167d703dccccf4",
+    "path": "redesign/campus-mv-v2/storyboards/C2-08.png",
+    "review": {
+      "reviewer": "/root",
+      "status": "passed",
+      "observations": "实看C2-08：同一音乐教室左窗/黑板/立式琴，垃垃单人校服正面演唱，眼神较收敛，白蝴蝶结/右手黑麦正确；完整嘴与手可见，无第二人或文字。"
+    }
+  },
+  "C2-09": {
+    "status": "passed",
+    "sha256": "782f607be10cce9822e25427ec07f93cff1bf7f9bdcb68340bcaa37ef98faf77",
+    "path": "redesign/campus-mv-v2/storyboards/C2-09.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：TIM单人胸像，现代黑西装白衬衫松黑领带、眼镜发型保持，身处安全站台内；背后车体光带提供速度感，无其他乘客、行李、文本或危险追车动作。",
+      "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+    }
+  },
+  "C2-05": {
+    "status": "passed",
+    "sha256": "1440df7531ae6a23023407f969009361a9b2d945424c17de93fd8d11a94c7b21",
+    "path": "redesign/campus-mv-v2/storyboards/C2-05.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "逐图实看：仅柒柒一人，盘发与花形发饰保留，白短袖与酒红细条领带、深海军蓝百褶裙。红色电吉他琴体、完整琴颈及琴头均在画内，花纹背带固定于左肩，左手正常指板位置、右手拨弦。暖日音乐教室中只一台固定黑色立式钢琴和一琴凳，额外鼓组已移除。发髻与完整吉他均留边，无文字和额外人物。",
+      "limitations": "膝盖以下不在中景取景范围，鞋袜不可见；静帧构图验收，未生成或验证运动视频。"
+    }
+  },
+  "C2-13": {
+    "status": "passed",
+    "sha256": "f73bf0078b3b0b0334dbe5361bb7b0fa30844f6fa80fb6fa98d719760e28dc31",
+    "path": "redesign/campus-mv-v2/storyboards/C2-13.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：只有柒柒，盘发花簪、白短袖、酒红细条领带、近膝深蓝百褶裙与白袜白鞋一致。完整红吉他、左肩背带、左右手持琴及拨弦位置可辨，左脚略前且鞋完整。木台、深蓝棚、纯米白背景布及两只小黑音箱保留，已移除鼓组、额外箱体和麦架。全画面无淡猫头角标/文字，无其他演员。",
+      "limitations": "静帧仅验收首帧演奏姿态；后续手腕拨弦和膝部弹动尚未生成验证。"
+    }
+  },
+  "C2-29": {
+    "status": "passed",
+    "sha256": "fb75e1539d2356e54e07f84b9b414c19fd1f9d8a795edbbd6e0c6f1d1fbb9a22",
+    "path": "redesign/campus-mv-v2/storyboards/C2-29.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：朱老师单人教师装，无领带，腰部中景双手胸前准备拍掌；脸、矩形眼镜、挽袖和黑皮带一致，手不穿模。舞台蓝棚白幕与校园夕光相容，无额外演员、文字或猫头角标。",
+      "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+    }
+  },
+  "C2-22": {
+    "status": "passed",
+    "sha256": "26355ac1a98b9f23b21afb6cf355f3e1989e6950bb166119b0744932aaa6650e",
+    "path": "redesign/campus-mv-v2/storyboards/C2-22.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看修正版：右上角淡猫头角标已消失，只有自然天空。冰冰独立全身轻跑，脸/长黑发/白花耳饰与校服保持，双手空、两腿与鞋完整，场景无额外人物或文字。",
+      "limitations": "仅静态图检查，尚无动态视频。"
+    }
+  },
+  "C2-18": {
+    "status": "passed",
+    "sha256": "fa91de01223b29566a5e05ba5e0f7a5d250840998c133978e5b94b839145b86f",
+    "path": "redesign/campus-mv-v2/storyboards/C2-18.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看图：宝石左无眼镜短袖，飞鸿右深矩形眼镜挽袖，两人各自胸前轻合掌，四手归属清楚无跨人接触；笑脸/身份可辨识，校园回廊光线相容，无额外人物或文字。",
+      "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+    }
+  },
+  "C2-02": {
+    "status": "passed",
+    "sha256": "f8e071a1ff6f3c6bc8031ebcfb981c88954736e1172b0ddb2174c8e6e5a3b473",
+    "path": "redesign/campus-mv-v2/storyboards/C2-02.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：Jerry左、十元右恰好两人侧身向右跑，全身和脚完整；Jerry矩形眼镜、十元金星夹保留，白短袖校园制服一致，手空着摆臂。十元裙摆保留及膝视觉长度，红跑道、右侧看台和白教学楼一致，无旁人/文字/琴盒。",
+      "limitations": "静帧构图验收，未生成或验证运动视频。"
+    }
+  },
+  "C2-03": {
+    "status": "passed",
+    "sha256": "828e35a681c0e2d7de25be26a46902ea2da1ca0770d8677a83fb5368224b7452",
+    "path": "redesign/campus-mv-v2/storyboards/C2-03.png",
+    "review": {
+      "reviewer": "/root/mv_shot_design",
+      "status": "passed",
+      "observations": "实际看修正版：仅TIM与叶思阳，TIM右前、叶思阳左后，校服/眼镜/不同发型保持；两人严格侧向从左向右跑，四只鞋完整，空手摆臂不交叠。窗、栏杆、校园夕光空间相容，无多余人物、文字或道具。",
+      "limitations": "已实际看图检查静态画面；未生成/检查动态视频。执行型号未暴露。"
+    }
+  },
+  "C2-15": {
+    "status": "passed",
+    "sha256": "1e7d6443a846c42dd3bf77d026a25713f46d8672286ea90e2d1d7288f5deb490",
+    "path": "redesign/campus-mv-v2/storyboards/C2-15.png",
+    "review": {
+      "reviewer": "/root/mv_wardrobe",
+      "status": "passed",
+      "observations": "实际看图：只有十元，棕色短卷发、单枚金色五角星发夹、白短袖校服与酒红细条领带准确。琴在左肩与下颌下方，左手托琴颈按弦，右手握弓根，弓毛接触琴弦，完整弓尖与弓根均在画内。音乐教室左窗/后黑板/右门/固定钢琴拓扑保留，无额外演员、鼓组、麦架、文字或角标。",
+      "limitations": "未验证动态运弓；这是清晰静帧首帧。"
+    }
+  }
+}

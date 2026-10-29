@@ -1,0 +1,82 @@
+{
+  "id": "C2-13",
+  "kind": "storyboard",
+  "path": "redesign/campus-mv-v2/storyboards/C2-13.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-f4c09e6c-41cd-4718-bc44-832ad8d5ea4d.png",
+  "output_hint": "Generated images are saved to /Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83 as /Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-f4c09e6c-41cd-4718-bc44-832ad8d5ea4d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-13.txt",
+  "references": [
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png",
+      "role": "柒柒校服正侧背三视图；同一人三个角度",
+      "kind": "character",
+      "entityId": "qiqi",
+      "status": "ready",
+      "sha256": "a42a549d428ced72d4644139468cdf87615a78fe27b9f160d72dfd15ace7eba8",
+      "order": 1,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/characters/qiqi/campus-three-view.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-stage.png",
+      "role": "校园音乐节小舞台空间锚点与光线",
+      "kind": "scene",
+      "entityId": "campus-stage-v2",
+      "status": "ready",
+      "sha256": "61f61f404907ae92f82b4216b679a03eb974871ba222da630626e405c9373937",
+      "order": 2,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/scenes/campus-stage.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png",
+      "role": "红色电吉他结构、颜色与尺度",
+      "kind": "prop",
+      "entityId": "guitar",
+      "status": "ready",
+      "sha256": "bc326df0b75add3006f35dd0a5f6c9b8b623ae7b7a143d0c22e1655d7417c8b3",
+      "order": 3,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/props/guitar.png"
+    },
+    {
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png",
+      "role": "柒柒手与乐器/麦的接触关系，不替代本镜构图",
+      "kind": "performance-contact",
+      "entityId": "qiqi",
+      "status": "ready",
+      "sha256": "b9ac2c5909dc0d87f9bc60676a89171b57c8047049d95883a6b0fbe23cee33fe",
+      "order": 4,
+      "actualUploadedPath": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/redesign/campus-mv-v2/assets/performance/qiqi-red-guitar.png"
+    },
+    {
+      "path": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-dba3f236-fa48-4bf5-a397-3d7fc62929cf.png",
+      "role": "待修初稿，只保留人物姿态与取景，按场景参考清理陈设和校服裙长",
+      "status": "ready",
+      "order": 5,
+      "actualUploadedPath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-dba3f236-fa48-4bf5-a397-3d7fc62929cf.png",
+      "sha256": "d74d770fc232cc9e347bf5e0d41047f5c9810592057dbab5e8ee10aa67a30770"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：只有柒柒，盘发花簪、白短袖、酒红细条领带、近膝深蓝百褶裙与白袜白鞋一致。完整红吉他、左肩背带、左右手持琴及拨弦位置可辨，左脚略前且鞋完整。木台、深蓝棚、纯米白背景布及两只小黑音箱保留，已移除鼓组、额外箱体和麦架。全画面无淡猫头角标/文字，无其他演员。",
+    "limitations": "静帧仅验收首帧演奏姿态；后续手腕拨弦和膝部弹动尚未生成验证。"
+  },
+  "generationHistory": [
+    {
+      "status": "superseded",
+      "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-dba3f236-fa48-4bf5-a397-3d7fc62929cf.png",
+      "promptPath": "redesign/campus-mv-v2/prompts/generated/C2-13-attempt1.txt",
+      "reason": "初稿自添鼓组、麦架和额外箱体；局部清理并校准裙长。"
+    }
+  ],
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "sha256": "f73bf0078b3b0b0334dbe5361bb7b0fa30844f6fa80fb6fa98d719760e28dc31",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:51:05.543861+00:00",
+  "status": "ready"
+}

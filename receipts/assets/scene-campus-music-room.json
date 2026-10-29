@@ -1,0 +1,31 @@
+{
+  "assetId": "scene-campus-music-room",
+  "path": "redesign/campus-mv-v2/assets/scenes/campus-music-room.png",
+  "generatedSourcePath": "/Users/hxj/.codex/generated_images/01a18803-4697-7192-8df1-87c3e52b1d83/exec-74a34ebf-c454-4013-bc1b-3a3928f24a01.png",
+  "entry": "built-in image_gen",
+  "requestedModel": "gpt-image-2",
+  "executedModel": "unverified",
+  "status": "ready",
+  "sha256": "7f96ef727ad3e5fe09a14a7284c4685a896033877acce42ee142a125c9768a03",
+  "nativeDimensions": [
+    1672,
+    941
+  ],
+  "createdAt": "2026-10-29T15:08:01.029412+00:00",
+  "promptPath": "redesign/campus-mv-v2/prompts/assets/scene-campus-music-room.txt",
+  "references": [
+    {
+      "order": 1,
+      "path": "/Users/hxj/workspace/github/hjm/video-work/love-hakimi/mv-20261028/assets/scenes/classroom.png",
+      "sha256": "41f5cc92880492cb8e68db372a079aca4e274ee16b96596f397d7e12d6e02e25",
+      "role": "fixed-room-topology",
+      "referenceState": "existing"
+    }
+  ],
+  "visualReview": {
+    "reviewer": "/root/mv_wardrobe",
+    "status": "passed",
+    "observations": "实际看图：左墙大窗、后绿黑板、右后门保持原教室结构；恰好一台黑色立式钢琴和一张黑琴凳，键盘盖打开，课桌移至右侧，中央宽敞木地板可供表演。明亮左窗日光，无人、无文字、无吉他或琴盒。钢琴黑白键在此广角远景为细节，逐键结构需后续演奏操作近景另检。",
+    "limitations": "实际查看生成空景与已输入来源对照；执行型号未暴露。"
+  }
+}
